@@ -1,5 +1,5 @@
 # MakeCode Arcade Extensions
-This is a list of MakeCode Arcade extensions that I find super useful in my projects.
+This is a list of MakeCode Arcade extensions that I find super useful in my projects. If you would like to suggest an extension be added, please open an issue with a link to the extension on Github. Or even better, open a pull request for adding an extension! Make sure to include a description, import url, and links to it's Github repo, Github Pages example if any, and forum post showcasing the extension if any.
 
 You can find the old gist [here](https://gist.github.com/UnsignedArduino/3bc2adce4b3f687ea1967578449d014d).
 
