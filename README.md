@@ -2,6 +2,28 @@
 This is a list of MakeCode Arcade extensions that I find super useful in my projects.
 
 You can find the old gist [here](https://gist.github.com/UnsignedArduino/3bc2adce4b3f687ea1967578449d014d).
+
+## Table of contents
+- [**Built-in extensions**](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#built-in-extensions)
+  - [arcade-sprite-data](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-sprite-data)
+  - [Timers](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#timers)
+  - [settings-blocks](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#settings-blocks)
+  - [Color Fading](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#color-fading)
+- [**Not built-in extensions**](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#not-built-in-extensions)
+  - [character-animations](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#character-animations)
+  - [arcade-tilemap-a-star](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-tilemap-a-star)
+  - [arcade-custome-menu](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-custom-menu)
+  - [arcade-block-objects](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-block-objects)
+  - [arcade-story](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-story)
+  - [arcade-sprite-util](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-sprite-util)
+  - [arcade-image-text](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-image-text)
+  - [pxt-lantern](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#pxt-lantern)
+  - [pxt-rtttl](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#pxt-rtttl)
+  - [arcade-shader](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-shader)
+- [**Tools**](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#tools)
+  - [Convert-Image-to-MakeCode-Arcade-Sprite](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#convert-image-to-makecode-arcade-sprite)
+  - [arcade-sprite-pack](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-sprite-pack)
+
 ## Built-in extensions
 These extensions are already built in to the editor, all you have to do is go to the toolbox, open the `Advanced` tab, click on `Extensions`, and click on the extension you want to import!
 ### arcade-sprite-data
@@ -89,7 +111,7 @@ Play beautiful melodies encoded in the RTTTL language in MakeCode with this exte
 
 [Github repo](https://github.com/pelikhan/pxt-rtttl) | [Github pages demo](https://pelikhan.github.io/pxt-rtttl/) | [Forum post](https://forum.makecode.com/t/rtttl-tunes-extension/4193/6) | [MIDI to RTTTL converter]([http://midi.mathewvp.com/midi2RTTL.php](http://midi.mathewvp.com/midi2RTTL.php))
 
-### riknoll/arcade-shader
+### arcade-shader
 Import this extension with the URL:
 > https://github.com/riknoll/arcade-shader/tree/master
 
@@ -98,7 +120,7 @@ Arcade games can get more realistic with shadows! This extension will add a cate
 [Github repo](https://github.com/riknoll/arcade-shader) | [Forum post](https://forum.makecode.com/t/shader-extension/4860) 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
-### kristianpedersen/Convert-Image-to-MakeCode-Arcade-Sprite
+### Convert-Image-to-MakeCode-Arcade-Sprite
 This tool will convert your images (like `.png` files) to Arcade code! Simply copy the output, open JavaScript mode in your project, navigate to where you want the image block to go, and paste in the image code! You may need to remove some redundant characters.
 
 Find this tool here:
@@ -106,7 +128,7 @@ Find this tool here:
 
 [Github repo](https://github.com/kristianpedersen/Convert-Image-to-MakeCode-Arcade-Sprite) | [Forum post](https://forum.makecode.com/t/ive-made-an-image-file-to-arcade-sprite-converter-feedback-and-code-improvements-wanted/2076)
 
-### shakao/arcade-sprite-pack
+### arcade-sprite-pack
 Have a bunch of images you want to send to someone, but they hate exercising their pinkie and pointer finger? This will convert a set of images into a MakeCode project that, when you import, will put the images into the image gallery!
 
 Find this tool here:
