@@ -22,6 +22,7 @@ You can find the old gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [arcade-shader](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-shader)
 - [**Tools**](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#convert-image-to-makecode-arcade-sprite)
+  - [pxt-arcade-asset-tool](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#pxt-arcade-asset-tool)
   - [arcade-sprite-pack](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-sprite-pack)
 
 ## Built-in extensions
@@ -121,12 +122,20 @@ Arcade games can get more realistic with shadows! This extension will add a cate
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
 ### Convert-Image-to-MakeCode-Arcade-Sprite
-This tool will convert your images (like `.png` files) to Arcade code! Simply copy the output, open JavaScript mode in your project, navigate to where you want the image block to go, and paste in the image code! You may need to remove some redundant characters.
+This tool will convert your images (like `.png` files) to Arcade code! Simply copy the output, open JavaScript mode in your project, navigate to where you want the image block to go, and paste in the image code! You may need to remove some redundant characters. Remember that Arcade has a maximum image size of 500x500!
 
 Find this tool here:
 > https://kristianpedersen.github.io/Convert-Image-to-MakeCode-Arcade-Sprite/
 
 [Github repo](https://github.com/kristianpedersen/Convert-Image-to-MakeCode-Arcade-Sprite) | [Forum post](https://forum.makecode.com/t/ive-made-an-image-file-to-arcade-sprite-converter-feedback-and-code-improvements-wanted/2076)
+
+### pxt-arcade-asset-tool
+This tool will also convert you images to Arcade code, but it also supports using 16-color palettes, in case you don't want to use the default palette! Simply copy the output, open JavaScript mode, navigate to where you want the image to go, and paste away! You may need to remove some redundant characters. Remember that Arcade has a maximum image size of 500x500!
+
+Find this tool here:
+> https://riknoll.github.io/pxt-arcade-asset-tool/
+
+[Github repo](https://github.com/riknoll/pxt-arcade-asset-tool/)
 
 ### arcade-sprite-pack
 Have a bunch of images you want to send to someone, but they hate exercising their pinkie and pointer finger? This will convert a set of images into a MakeCode project that, when you import, will put the images into the image gallery!
