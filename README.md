@@ -1,5 +1,7 @@
 # MakeCode Arcade Extensions
 This is a list of MakeCode Arcade extensions that I find super useful in my projects.
+
+You can find the old gist [here](https://gist.github.com/UnsignedArduino/3bc2adce4b3f687ea1967578449d014d).
 ## Built-in extensions
 These extensions are already built in to the editor, all you have to do is go to the toolbox, open the `Advanced` tab, click on `Extensions`, and click on the extension you want to import!
 ### arcade-sprite-data
