@@ -9,6 +9,7 @@ You can find the old gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [Timers](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#timers)
   - [settings-blocks](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#settings-blocks)
   - [Color Fading](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#color-fading)
+  - [pxt-button-combos](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#pxt-button-combos)
 - [**Not built-in extensions**](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#not-built-in-extensions)
   - [character-animations](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#character-animations)
   - [arcade-tilemap-a-star](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-tilemap-a-star)
@@ -43,6 +44,11 @@ Save data in an easy-to-use JSON-like format, now avaliable for the block users!
 Want some cool fade-in and fade-out effects for your cutscenes? Or want to change the default colors at runtime? This is the extension for you! This extension goes together nicely with the Story extension linked down below. This will add another category in the toolbox called `Color`.
 
 [Official docs](https://arcade.makecode.com/pkg/jwunderl/pxt-color) | [Github repo](https://github.com/jwunderl/pxt-color) | [Forum post](https://forum.makecode.com/t/fireworks-and-pxt-color-extension/315)
+### pxt-button-combos
+A simple-to-use extension that allows you to have handlers when buttons are pressed in a certain order. Great for a dancing game! This extension adds a section called `Combos` in the `Controller` category.
+
+[Official docs](https://arcade.makecode.com/pkg/jwunderl/pxt-button-combos) | [Github repo](https://github.com/jwunderl/pxt-button-combos)
+
 ## Not built-in extensions
 The following extensions, while just as good as the ones listed above, will require some slightly different steps while importing. First go to the toolbox, open the `Advanced` tab, click on `Extensions`, and you will see a text box that says `Search or enter project URL...`. This is where you will paste in the URL to the extension. The URL will be posted along with the listing.
 ### character-animations
