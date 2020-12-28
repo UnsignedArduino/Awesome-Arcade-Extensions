@@ -11,6 +11,7 @@ You can find the old gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [Color Fading](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#color-fading)
   - [pxt-button-combos](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#pxt-button-combos)
   - [arcade-minimap](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-minimap)
+  - [arcade-grid](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-grid)
 - [**Not built-in extensions**](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#not-built-in-extensions)
   - [character-animations](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#character-animations)
   - [arcade-tilemap-a-star](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-tilemap-a-star)
@@ -54,6 +55,11 @@ A simple-to-use extension that allows you to have handlers when buttons are pres
 Want a map for your tilemap? You've come to the right extension! This will take your tilemap and scale it down to a specified ratio - you can also add sprites that will be drawn on top of the map! This extension adds a new category called `Minimap` in the toolbox.
 
 [Official docs](https://arcade.makecode.com/pkg/microsoft/arcade-minimap) | [Github repo](https://arcade.makecode.com/pkg/microsoft/arcade-minimap) | [Forum post](https://forum.makecode.com/t/minimap-extension-beta/1709)
+### arcade-grid
+
+Have an extension do that hard work of aligning sprites to a tilemap! This will add a new category called `Grid`.
+
+[Official docs](https://arcade.makecode.com/pkg/microsoft/arcade-grid) | [Github repo](https://github.com/microsoft/arcade-grid) | [Forum post](https://forum.makecode.com/t/gemcrush-and-sprite-grid-extension-beta/1842)
 
 ## Not built-in extensions
 The following extensions, while just as good as the ones listed above, will require some slightly different steps while importing. First go to the toolbox, open the `Advanced` tab, click on `Extensions`, and you will see a text box that says `Search or enter project URL...`. This is where you will paste in the URL to the extension. The URL will be posted along with the listing.
