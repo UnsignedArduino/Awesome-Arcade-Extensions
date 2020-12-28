@@ -10,6 +10,7 @@ You can find the old gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [settings-blocks](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#settings-blocks)
   - [Color Fading](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#color-fading)
   - [pxt-button-combos](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#pxt-button-combos)
+  - [arcade-minimap](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-minimap)
 - [**Not built-in extensions**](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#not-built-in-extensions)
   - [character-animations](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#character-animations)
   - [arcade-tilemap-a-star](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-tilemap-a-star)
@@ -48,6 +49,11 @@ Want some cool fade-in and fade-out effects for your cutscenes? Or want to chang
 A simple-to-use extension that allows you to have handlers when buttons are pressed in a certain order. Great for a dancing game! This extension adds a section called `Combos` in the `Controller` category.
 
 [Official docs](https://arcade.makecode.com/pkg/jwunderl/pxt-button-combos) | [Github repo](https://github.com/jwunderl/pxt-button-combos)
+### arcade-minimap
+
+Want a map for your tilemap? You've come to the right extension! This will take your tilemap and scale it down to a specified ratio - you can also add sprites that will be drawn on top of the map! This extension adds a new category called `Minimap` in the toolbox.
+
+[Official docs](https://arcade.makecode.com/pkg/microsoft/arcade-minimap) | [Github repo](https://arcade.makecode.com/pkg/microsoft/arcade-minimap) | [Forum post](https://forum.makecode.com/t/minimap-extension-beta/1709)
 
 ## Not built-in extensions
 The following extensions, while just as good as the ones listed above, will require some slightly different steps while importing. First go to the toolbox, open the `Advanced` tab, click on `Extensions`, and you will see a text box that says `Search or enter project URL...`. This is where you will paste in the URL to the extension. The URL will be posted along with the listing.
@@ -125,6 +131,7 @@ Import this extension with the URL:
 Arcade games can get more realistic with shadows! This extension will add a category called `Shaders` in the toolbox.
 
 [Github repo](https://github.com/riknoll/arcade-shader) | [Forum post](https://forum.makecode.com/t/shader-extension/4860) 
+
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
 ### Convert-Image-to-MakeCode-Arcade-Sprite
