@@ -23,6 +23,7 @@ You can find the old gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [pxt-lantern](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#pxt-lantern)
   - [pxt-rtttl](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#pxt-rtttl)
   - [arcade-shader](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-shader)
+  - [small-tilemaps](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#small-tilemaps)
 - [**Tools**](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#convert-image-to-makecode-arcade-sprite)
   - [pxt-arcade-asset-tool](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#pxt-arcade-asset-tool)
@@ -137,6 +138,14 @@ Import this extension with the URL:
 Arcade games can get more realistic with shadows! This extension will add a category called `Shaders` in the toolbox.
 
 [Github repo](https://github.com/riknoll/arcade-shader) | [Forum post](https://forum.makecode.com/t/shader-extension/4860) 
+
+### small-tilemaps
+Import this extension with the URL:
+> https://github.com/riknoll/small-tilemaps
+
+Easy access to an 8x8 tilemap in blocks! Note: If you are switching from an 16x16 to an 8x8 tilemap, don't forget to switch tiles in your code! And delete the 16x16 tiles in the tilemap editor, otherwise you are going to get really confused. 
+
+[Github repo](https://github.com/riknoll/small-tilemaps) | [Forum post](https://forum.makecode.com/t/why-is-it-going-strait-to-level-2/4290/25)
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
