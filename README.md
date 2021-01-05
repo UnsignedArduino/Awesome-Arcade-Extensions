@@ -24,6 +24,7 @@ You can find the old gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [pxt-rtttl](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#pxt-rtttl)
   - [arcade-shader](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-shader)
   - [small-tilemaps](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#small-tilemaps)
+  - [Fast-Random-Blocks](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#fast-random-blocks)
 - [**Tools**](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#convert-image-to-makecode-arcade-sprite)
   - [pxt-arcade-asset-tool](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#pxt-arcade-asset-tool)
@@ -143,9 +144,17 @@ Arcade games can get more realistic with shadows! This extension will add a cate
 Import this extension with the URL:
 > https://github.com/riknoll/small-tilemaps
 
-Easy access to an 8x8 tilemap in blocks! Note: If you are switching from an 16x16 to an 8x8 tilemap, don't forget to switch tiles in your code! And delete the 16x16 tiles in the tilemap editor, otherwise you are going to get really confused. 
+Easy access to an 8x8 tilemap in blocks! Note: If you are switching from an 16x16 to an 8x8 tilemap, don't forget to switch tiles in your code! And delete the 16x16 tiles in the tilemap editor, otherwise you are going to get really confused. This will add a block under `Tiles` section in the `Scene` category.
 
 [Github repo](https://github.com/riknoll/small-tilemaps) | [Forum post](https://forum.makecode.com/t/why-is-it-going-strait-to-level-2/4290/25)
+
+### Fast-Random-Blocks
+Import this extension with the URL:
+> https://github.com/UnsignedArduino/Fast-Random-Blocks
+
+Blocks for Fast Random! Have separate RNG objects for different aspects of your game, and with seeding! This will add a `Random` category in the toolbox.
+
+[Github repo](https://github.com/UnsignedArduino/Fast-Random-Blocks) | [Forum post](https://forum.makecode.com/t/fast-random-extension/5365)
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
