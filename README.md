@@ -29,6 +29,7 @@ You can find the old gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [Convert-Image-to-MakeCode-Arcade-Sprite](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#convert-image-to-makecode-arcade-sprite)
   - [pxt-arcade-asset-tool](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#pxt-arcade-asset-tool)
   - [arcade-sprite-pack](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-sprite-pack)
+  - [arcade-image-tools](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-image-tools)
 
 ## Built-in extensions
 These extensions are already built in to the editor, all you have to do is go to the toolbox, open the `Advanced` tab, click on `Extensions`, and click on the extension you want to import!
@@ -181,5 +182,13 @@ Find this tool here:
 > https://shakao.github.io/arcade-sprite-pack/
 
 [Github repo](https://github.com/shakao/arcade-sprite-pack)
+
+### arcade-image-tools
+The ultimate Arcade image manipulator! Rotate and flip your sprites with this!
+
+Find this tool here:
+> https://felixtsu.github.io/arcade-image-tools/
+
+[Github repo](https://github.com/felixtsu/arcade-image-tools/) | [Forum post](https://forum.makecode.com/t/sprite-image-tools-rotating-flipping/5375)
 ***
 Written with [StackEdit](https://stackedit.io/).
