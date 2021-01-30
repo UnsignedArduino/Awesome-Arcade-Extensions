@@ -27,6 +27,7 @@ You can find the old gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [small-tilemaps](#small-tilemaps)
   - [Fast-Random-Blocks](#fast-random-blocks)
   - [pxt-arcade-image-transform](#pxt-arcade-image-transform)
+  - [pxt-password-save](#pxt-password-save)
 - [**Tools**](#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
   - [pxt-arcade-asset-tool](#pxt-arcade-asset-tool)
@@ -166,6 +167,14 @@ Import this extension with the URL:
 Rotate images with this extension! This works best with large images. Don't forget to enlarge the base image so when it rotates it has enough room to spin! This will add a `Sprite Transforms` category in the `Advanced` section of the toolbox.
 
 [Github repo](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions/issues/11) | [Example](https://arcade.makecode.com/27800-70465-05726-62974) | [Forum post](https://forum.makecode.com/t/having-a-blast-with-makecode-arcade/59/6)
+
+### pxt-password-save
+Import this extension with the URL:
+> https://github.com/jacobcarpenter/pxt-password-save
+
+Shove bytes and bools into a string as a save code! Note: This extensions seems to still be in beta (as of January 30, 2021) as importing the extension causes the example code to run instead of your own. This will add a category in the toolbox called `Password Save`.
+
+[Github repo](https://github.com/jacobcarpenter/pxt-password-save) | [Github pages demo](https://jacobcarpenter.github.io/pxt-password-save/) | [Forum post](https://forum.makecode.com/t/password-save-extension-work-in-progress/5819)
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
