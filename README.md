@@ -28,6 +28,7 @@ You can find the old gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [Fast-Random-Blocks](#fast-random-blocks)
   - [pxt-arcade-image-transform](#pxt-arcade-image-transform)
   - [pxt-password-save](#pxt-password-save)
+  - [pxt-scaling](#pxt-scaling)
 - [**Tools**](#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
   - [pxt-arcade-asset-tool](#pxt-arcade-asset-tool)
@@ -175,6 +176,14 @@ Import this extension with the URL:
 Shove bytes and bools into a string as a save code! Note: This extensions seems to still be in beta (as of January 30, 2021) as importing the extension causes the example code to run instead of your own. This will add a category in the toolbox called `Password Save`.
 
 [Github repo](https://github.com/jacobcarpenter/pxt-password-save) | [Github pages demo](https://jacobcarpenter.github.io/pxt-password-save/) | [Forum post](https://forum.makecode.com/t/password-save-extension-work-in-progress/5819)
+
+### pxt-scaling
+Import this extension with the URL:
+> https://github.com/jwunderl/pxt-scaling
+
+Like [pxt-arcade-image-transform](#pxt-arcade-image-transform), this also allows you to rotate images and scale them too!!! Much better than manually doing it, at the expense of RAM. This extension adds a category called `Scaling` in the toolbox.
+
+[Github repo](https://github.com/jwunderl/pxt-scaling) | [Github pages demo](https://jwunderl.github.io/pxt-scaling/) | [Forum post](https://forum.makecode.com/t/arcade-advanced-stream-128-spinning-dishes/3885)
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
