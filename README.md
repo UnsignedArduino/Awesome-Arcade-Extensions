@@ -1,35 +1,37 @@
+
 # MakeCode Arcade Extensions
 This is a list of MakeCode Arcade extensions that I find super useful in my projects. If you would like to suggest an extension be added, please open an issue with a link to the extension on Github. Or even better, open a pull request for adding an extension! Make sure to include a description, import url, and links to it's Github repo, Github Pages example if any, and forum post showcasing the extension if any.
 
 You can find the old gist [here](https://gist.github.com/UnsignedArduino/3bc2adce4b3f687ea1967578449d014d).
 
 ## Table of contents
-- [**Built-in extensions**](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#built-in-extensions)
-  - [arcade-sprite-data](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-sprite-data)
-  - [Timers](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#timers)
-  - [settings-blocks](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#settings-blocks)
-  - [Color Fading](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#color-fading)
-  - [pxt-button-combos](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#pxt-button-combos)
-  - [arcade-minimap](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-minimap)
-  - [arcade-grid](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-grid)
-- [**Not built-in extensions**](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#not-built-in-extensions)
-  - [character-animations](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#character-animations)
-  - [arcade-tilemap-a-star](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-tilemap-a-star)
-  - [arcade-custome-menu](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-custom-menu)
-  - [arcade-block-objects](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-block-objects)
-  - [arcade-story](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-story)
-  - [arcade-sprite-util](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-sprite-util)
-  - [arcade-image-text](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-image-text)
-  - [pxt-lantern](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#pxt-lantern)
-  - [pxt-rtttl](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#pxt-rtttl)
-  - [arcade-shader](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-shader)
-  - [small-tilemaps](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#small-tilemaps)
-  - [Fast-Random-Blocks](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#fast-random-blocks)
-- [**Tools**](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#tools)
-  - [Convert-Image-to-MakeCode-Arcade-Sprite](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#convert-image-to-makecode-arcade-sprite)
-  - [pxt-arcade-asset-tool](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#pxt-arcade-asset-tool)
-  - [arcade-sprite-pack](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-sprite-pack)
-  - [arcade-image-tools](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions#arcade-image-tools)
+- [**Built-in extensions**](#built-in-extensions)
+  - [arcade-sprite-data](#arcade-sprite-data)
+  - [Timers](#timers)
+  - [settings-blocks](#settings-blocks)
+  - [Color Fading](#color-fading)
+  - [pxt-button-combos](#pxt-button-combos)
+  - [arcade-minimap](#arcade-minimap)
+  - [arcade-grid](#arcade-grid)
+- [**Not built-in extensions**](#not-built-in-extensions)
+  - [character-animations](#character-animations)
+  - [arcade-tilemap-a-star](#arcade-tilemap-a-star)
+  - [arcade-custome-menu](#arcade-custom-menu)
+  - [arcade-block-objects](#arcade-block-objects)
+  - [arcade-story](#arcade-story)
+  - [arcade-sprite-util](#arcade-sprite-util)
+  - [arcade-image-text](#arcade-image-text)
+  - [pxt-lantern](#pxt-lantern)
+  - [pxt-rtttl](#pxt-rtttl)
+  - [arcade-shader](#arcade-shader)
+  - [small-tilemaps](#small-tilemaps)
+  - [Fast-Random-Blocks](#fast-random-blocks)
+  - [pxt-arcade-image-transform](#pxt-arcade-image-transform)
+- [**Tools**](#tools)
+  - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
+  - [pxt-arcade-asset-tool](#pxt-arcade-asset-tool)
+  - [arcade-sprite-pack](#arcade-sprite-pack)
+  - [arcade-image-tools](#arcade-image-tools)
 
 ## Built-in extensions
 These extensions are already built in to the editor, all you have to do is go to the toolbox, open the `Advanced` tab, click on `Extensions`, and click on the extension you want to import!
@@ -156,6 +158,14 @@ Import this extension with the URL:
 Blocks for Fast Random! Have separate RNG objects for different aspects of your game, and with seeding! This will add a `Random` category in the toolbox.
 
 [Github repo](https://github.com/UnsignedArduino/Fast-Random-Blocks) | [Forum post](https://forum.makecode.com/t/fast-random-extension/5365)
+
+### pxt-arcade-image-transform
+Import this extension with the URL:
+> https://github.com/robo-technical-group/pxt-arcade-image-transform
+
+Rotate images with this extension! This works best with large images. Don't forget to enlarge the base image so when it rotates it has enough room to spin! This will add a `Sprite Transforms` category in the `Advanced` section of the toolbox.
+
+[Github repo](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions/issues/11) | [Example](https://arcade.makecode.com/27800-70465-05726-62974) | [Forum post](https://forum.makecode.com/t/having-a-blast-with-makecode-arcade/59/6)
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
