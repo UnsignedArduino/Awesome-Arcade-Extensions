@@ -135,7 +135,7 @@ Import this extension with the URL:
 
 Play beautiful melodies encoded in the RTTTL language in MakeCode with this extension! You can use this [website]([http://midi.mathewvp.com/midi2RTTL.php](http://midi.mathewvp.com/midi2RTTL.php)) to turn yoru `.mid` and `.midi` files into a RTTTL-compatible string of text! This extension adds a block in the `Melody` section in the `Music` category in the toolbox.
 
-[GitHub repo](https://github.com/pelikhan/pxt-rtttl) | [GitHub pages demo](https://pelikhan.github.io/pxt-rtttl/) | [Forum post](https://forum.makecode.com/t/rtttl-tunes-extension/4193/6) | [MIDI to RTTTL converter]([http://midi.mathewvp.com/midi2RTTL.php](http://midi.mathewvp.com/midi2RTTL.php))
+[GitHub repo](https://github.com/pelikhan/pxt-rtttl) | [GitHub pages demo](https://pelikhan.github.io/pxt-rtttl/) | [Forum post](https://forum.makecode.com/t/rtttl-tunes-extension/4193/6) | [MIDI to RTTTL converter](http://midi.mathewvp.com/midi2RTTL.php)
 
 ### arcade-shader
 Import this extension with the URL:
