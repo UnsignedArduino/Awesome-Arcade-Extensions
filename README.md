@@ -1,4 +1,5 @@
 
+
 # MakeCode Arcade Extensions
 This is a list of MakeCode Arcade extensions that I find super useful in my projects. If you would like to suggest an extension be added, please open an issue with a link to the extension on GitHub. Or even better, open a pull request for adding an extension! Make sure to include a description, import url, links to it's GitHub repo, GitHub Pages example if any, forum post showcasing the extension if any, and an entry in the table of contents!
 
@@ -29,6 +30,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [pxt-arcade-image-transform](#pxt-arcade-image-transform)
   - [pxt-password-save](#pxt-password-save)
   - [pxt-scaling](#pxt-scaling)
+  - [notifications](#notifications)
 - [**Tools**](#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
   - [pxt-arcade-asset-tool](#pxt-arcade-asset-tool)
@@ -184,6 +186,16 @@ Import this extension with the URL:
 Like [pxt-arcade-image-transform](#pxt-arcade-image-transform), this also allows you to rotate images and scale them too!!! Much better than manually doing it, at the expense of RAM. This extension adds a category called `Scaling` in the toolbox.
 
 [GitHub repo](https://github.com/jwunderl/pxt-scaling) | [GitHub pages demo](https://jwunderl.github.io/pxt-scaling/) | [Forum post](https://forum.makecode.com/t/arcade-advanced-stream-128-spinning-dishes/3885)
+
+### notifications
+Import this extension with the URL:
+> https://github.com/unsignedarduino/notifications
+
+Shows and scrolls notifications like a sprite-say dialog but s c r e t c h e d out! It also supports variable speed and 8x8 icons! (Although it doesn't push notifications down when you display more than one at a time - you need to wait until the current notification is over otherwise you will cover it up - but there are blocks to wait for the notification to finish) This adds a category called `Notification`. 
+
+[GitHub repo](https://github.com/unsignedarduino/notifications) | [GitHub pages demo*](https://unsignedarduino.github.io/Notifications/) | [Forum post](https://forum.makecode.com/t/notification-extension/5557)
+
+\* Note that the GitHub pages demo was generated a long time ago so you won't be able to see the code in `main.ts` or `test.ts` but the notification still looks the same. 
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
