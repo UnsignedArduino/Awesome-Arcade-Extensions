@@ -31,6 +31,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [pxt-password-save](#pxt-password-save)
   - [pxt-scaling](#pxt-scaling)
   - [notifications](#notifications)
+  - [Achievements](#achievements)
 - [**Tools**](#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
   - [pxt-arcade-asset-tool](#pxt-arcade-asset-tool)
@@ -195,7 +196,15 @@ Shows and scrolls notifications like a sprite-say dialog but s c r e t c h e d o
 
 [GitHub repo](https://github.com/unsignedarduino/notifications) | [GitHub pages demo*](https://unsignedarduino.github.io/Notifications/) | [Forum post](https://forum.makecode.com/t/notification-extension/5557)
 
-\* Note that the GitHub pages demo was generated a long time ago so you won't be able to see the code in `main.ts` or `test.ts` but the notification still looks the same. 
+*Note that the GitHub pages demo was generated a long time ago so you won't be able to see the code in `main.ts` or `test.ts` but the notification still looks the same. 
+
+### Achievements
+Import this extension with the URL:
+> https://github.com/UnsignedArduino/Achievements
+
+Your games can ascend to a new level with freaking _achievements_ in MakeCode Arcade! Easily track and display achievements with this extension! This will add a category called `Achievements` in the toolbox. 
+
+[GitHub repo](https://github.com/UnsignedArduino/Achievements) | [Demo](https://arcade.makecode.com/89228-26205-83094-83249) | [Forum post](https://forum.makecode.com/t/achievements-extension/6308)
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
