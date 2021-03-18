@@ -32,6 +32,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [pxt-scaling](#pxt-scaling)
   - [notifications](#notifications)
   - [Achievements](#achievements)
+  - [pxt-countup](#pxt-countup)
 - [**Tools**](#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
   - [pxt-arcade-asset-tool](#pxt-arcade-asset-tool)
@@ -205,6 +206,14 @@ Import this extension with the URL:
 Your games can ascend to a new level with freaking _achievements_ in MakeCode Arcade! Easily track and display achievements with this extension! This will add a category called `Achievements` in the toolbox. 
 
 [GitHub repo](https://github.com/UnsignedArduino/Achievements) | [Demo](https://arcade.makecode.com/89228-26205-83094-83249) | [Forum post](https://forum.makecode.com/t/achievements-extension/6308)
+
+### pxt-countup
+Import this extension with the URL:
+> https://github.com/shakao/pxt-countup
+
+Stop hacking the built-in countdown in your code - it's ugly! Instead, use this extension which does the same thing for you in a nice little extension! This adds a section called `Countup` in the `Info` category. 
+
+[GitHub repo](https://github.com/shakao/pxt-countup) | [Demo](https://arcade.makecode.com/48048-78498-38407-75985) | [Forum post](https://forum.makecode.com/t/small-count-up-timer-extension/6786)
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
