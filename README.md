@@ -14,6 +14,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [pxt-button-combos](#pxt-button-combos)
   - [arcade-minimap](#arcade-minimap)
   - [arcade-grid](#arcade-grid)
+  - [arcade-storytelling](#arcade-storytelling)
 - [**Not built-in extensions**](#not-built-in-extensions)
   - [character-animations](#character-animations)
   - [arcade-tilemap-a-star](#arcade-tilemap-a-star)
@@ -41,39 +42,53 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
 
 ## Built-in extensions
 These extensions are already built in to the editor, all you have to do is go to the toolbox, open the `Advanced` tab, click on `Extensions`, and click on the extension you want to import!
+
 ### arcade-sprite-data
 It's local variables, but for sprites! Super useful for saving certain attributes of a sprite like the health of an enemy. This will add a section full of blocks called `Data` under the `Sprites` category in the toolbox.
 
 [Official docs](https://arcade.makecode.com/pkg/microsoft/arcade-sprite-data) | [GitHub repo](https://github.com/microsoft/arcade-sprite-data) | [Forum post](https://forum.makecode.com/t/sprite-data-extension/1590)
+
 ### Timers
 It's literal multithreading! Setup a callback for your code or run it in a separate fiber (thread) with this extension! This will add another category in the toolbox called `Timer`. 
 
 [Official docs](https://arcade.makecode.com/pkg/microsoft/arcade-timers) | [GitHub repo](https://github.com/microsoft/arcade-timers) | [Forum post](https://forum.makecode.com/t/timers-extension-after-x-debounce-throttle-and-in-background/1925)
+
 ### settings-blocks
 Save data in an easy-to-use JSON-like format, now avaliable for the block users! This will add another category in the toolbox called `settings`.
 
 [Official docs](https://arcade.makecode.com/pkg/microsoft/pxt-settings-blocks) | [GitHub repo for block defs](https://github.com/microsoft/pxt-settings-blocks) | [GitHub repo for implementation](https://github.com/microsoft/pxt-common-packages/tree/master/libs/settings) | [Forum post](https://forum.makecode.com/t/settings-extension/1594)
+
 ### Color Fading
 Want some cool fade-in and fade-out effects for your cutscenes? Or want to change the default colors at runtime? This is the extension for you! This extension goes together nicely with the Story extension linked down below. This will add another category in the toolbox called `Color`.
 
 [Official docs](https://arcade.makecode.com/pkg/jwunderl/pxt-color) | [GitHub repo](https://github.com/jwunderl/pxt-color) | [Forum post](https://forum.makecode.com/t/fireworks-and-pxt-color-extension/315)
+
 ### pxt-button-combos
 A simple-to-use extension that allows you to have handlers when buttons are pressed in a certain order. Great for a dancing game! This extension adds a section called `Combos` in the `Controller` category.
 
 [Official docs](https://arcade.makecode.com/pkg/jwunderl/pxt-button-combos) | [GitHub repo](https://github.com/jwunderl/pxt-button-combos)
+
 ### arcade-minimap
 
 Want a map for your tilemap? You've come to the right extension! This will take your tilemap and scale it down to a specified ratio - you can also add sprites that will be drawn on top of the map! This extension adds a new category called `Minimap` in the toolbox.
 
 [Official docs](https://arcade.makecode.com/pkg/microsoft/arcade-minimap) | [GitHub repo](https://arcade.makecode.com/pkg/microsoft/arcade-minimap) | [Forum post](https://forum.makecode.com/t/minimap-extension-beta/1709)
+
 ### arcade-grid
 
 Have an extension do that hard work of aligning sprites to a tilemap! This will add a new category called `Grid`.
 
 [Official docs](https://arcade.makecode.com/pkg/microsoft/arcade-grid) | [GitHub repo](https://github.com/microsoft/arcade-grid) | [Forum post](https://forum.makecode.com/t/gemcrush-and-sprite-grid-extension-beta/1842)
 
+### arcade-storytelling
+
+The new and improved `arcade-story` now part of the built-in extensions with new improvements! This will add a category called `Story` in the toolbox. Note the old story extension is not compatible at all with this one!
+
+[Official docs](https://arcade.makecode.com/pkg/microsoft/arcade-storytelling) | [GitHub repo](https://github.com/microsoft/arcade-storytelling) | [Forum post](https://forum.makecode.com/t/new-arcade-story-extension/6744) 
+
 ## Not built-in extensions
 The following extensions, while just as good as the ones listed above, will require some slightly different steps while importing. First go to the toolbox, open the `Advanced` tab, click on `Extensions`, and you will see a text box that says `Search or enter project URL...`. This is where you will paste in the URL to the extension. The URL will be posted along with the listing.
+
 ### character-animations
 Import this extension with the URL:
 > https://github.com/riknoll/character-animations
@@ -81,6 +96,7 @@ Import this extension with the URL:
 A version of the `Animation` extension but much more easier to handle if your sprites (Ex. main player) has a lot of different movements, like moving up, down, left, and right. The `character-animations` extension will automatically start and stop animations depending on what the player is doing. This will add another category in the toolbox called `Character`.
 
 [GitHub repo](https://github.com/riknoll/character-animations)
+
 ### arcade-tilemap-a-star
 Import this extension with the URL:
 > https://github.com/jwunderl/arcade-tilemap-a-star
@@ -88,6 +104,7 @@ Import this extension with the URL:
 Help your sprites find their way around your tilemaps with this extension! Just provide 2 locations on a tilemap and it will automagically compute the fastest path between the 2 spots while also moving around walls using the [A* algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)! This will add another section in the `Scene` category called `Path Following` in the toolbox.
 
 [GitHub repo](https://github.com/jwunderl/arcade-tilemap-a-star) | [Forum post](https://forum.makecode.com/t/tilemap-path-finding-a-beta/1846) | [Wikipedia article on the A* algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
+
 ### arcade-custom-menu
 Import this extension with the URL:
 > https://github.com/riknoll/arcade-custom-menu
@@ -95,6 +112,7 @@ Import this extension with the URL:
 One of my favorite extensions, it allows you to make a menu out of a list of strings! Use this for selecting options where using `game.askForNumber()` and `game.askForString()` would be unintuitive or clumsy. This will add another category in the toolbox called `BlockMenu`.
 
 [GitHub repo](https://github.com/riknoll/arcade-custom-menu)
+
 ### arcade-block-objects
 Import this extension with the URL:
 > https://github.com/microsoft/arcade-block-objects
@@ -102,13 +120,18 @@ Import this extension with the URL:
 Object-oriented programming is no doubt an important topic in prograaming. This extension will help you make objects in blocks! Attach all sorts of data to an object, like numbers, strings, images, sprites, locations, and more! This will add a category in the toolbox called `BlockObject` with 7 sub-categories.
 
 [GitHub repo](https://github.com/microsoft/arcade-block-objects)
+
 ### arcade-story
+
+> NOTE: This extension is depreciated! There is a new better extension under the same name but different repo that is now part of the built-in extensions! Check out the Forum post about it [here](https://forum.makecode.com/t/new-arcade-story-extension/6744). 
+
 Import this extension with the URL:
 > https://github.com/riknoll/arcade-story
 
 Need some cutscenes with dialog? This extension is for you! Comes with a variety of blocks designed to make writing stories and scenes much easier. This extension pairs great with the `Color Fading` extension linked above. This will add a new category called `Story` in the toolbox.
 
 [GitHub repo](https://github.com/riknoll/arcade-story)
+
 ### arcade-sprite-util
 Import this extension with the URL:
 > https://github.com/jwunderl/arcade-sprite-util
@@ -116,6 +139,7 @@ Import this extension with the URL:
 As the name says, this extension has a bunch of utilities for sprites and more, especially anything dealing with trigonometry. This extension adds a new category called `Sprite Utils` in the toolbox.
 
 [GitHub repo](https://github.com/jwunderl/arcade-sprite-util) | [GitHub pages demo](https://jwunderl.github.io/arcade-sprite-util/)
+
 ### arcade-image-text
 Import this extension with the URL:
 > https://github.com/pelikhan/arcade-image-text
