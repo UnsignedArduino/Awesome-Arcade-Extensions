@@ -1,5 +1,3 @@
-
-
 # MakeCode Arcade Extensions
 This is a list of MakeCode Arcade extensions that I find super useful in my projects. If you would like to suggest an extension be added, please open an issue with a link to the extension on GitHub. Or even better, open a pull request for adding an extension! Make sure to include a description, import url, links to it's GitHub repo, GitHub Pages example if any, forum post showcasing the extension if any, and an entry in the table of contents!
 
@@ -34,6 +32,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [notifications](#notifications)
   - [Achievements](#achievements)
   - [pxt-countup](#pxt-countup)
+  - [pxt-sight](#pxt-sight)
 - [**Tools**](#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
   - [pxt-arcade-asset-tool](#pxt-arcade-asset-tool)
@@ -238,6 +237,14 @@ Import this extension with the URL:
 Stop hacking the built-in countdown in your code - it's ugly! Instead, use this extension which does the same thing for you in a nice little extension! This adds a section called `Countup` in the `Info` category. 
 
 [GitHub repo](https://github.com/shakao/pxt-countup) | [Demo](https://arcade.makecode.com/48048-78498-38407-75985) | [Forum post](https://forum.makecode.com/t/small-count-up-timer-extension/6786)
+
+### pxt-sight
+Import this extension with the URL:
+> https://github.com/felixtsu/pxt-sight
+
+Inteligent sight now comes to your sprites in MakeCode Arcade! This extension can help you detect whether one sprite can "see" another sprite with some math! (Much better than sending "see" sprites everywhere) This adds a section called `Sprite Sight` in the toolbox. 
+
+[GitHub repo](https://github.com/felixtsu/pxt-sight) | [Demo](https://arcade.makecode.com/97022-62922-00013-89813) | [Forum post](https://forum.makecode.com/t/sneaking-demo/4961)
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
