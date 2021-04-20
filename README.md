@@ -38,6 +38,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [pxt-arcade-asset-tool](#pxt-arcade-asset-tool)
   - [arcade-sprite-pack](#arcade-sprite-pack)
   - [arcade-image-tools](#arcade-image-tools)
+  - [arcade-font-renderer](#arcade-font-renderer)
 
 ## Built-in extensions
 These extensions are already built in to the editor, all you have to do is go to the toolbox, open the `Advanced` tab, click on `Extensions`, and click on the extension you want to import!
@@ -279,5 +280,13 @@ Find this tool here:
 > https://felixtsu.github.io/arcade-image-tools/
 
 [GitHub repo](https://github.com/felixtsu/arcade-image-tools/) | [Forum post](https://forum.makecode.com/t/sprite-image-tools-rotating-flipping/5375)
+
+### arcade-font-renderer
+Stop drawing your title screen text by hand! With this tool, you can render _any_ (well, any font on your computer and in Google Fonts) font onto a Arcade image with outlines _and_ shadows!
+
+Find this tool here:
+> https://arcade-font-renderer.jacobcarpenter.com/
+
+[GitHub repo](https://github.com/jacobcarpenter/arcade-font-renderer) | [Forum post](https://forum.makecode.com/t/arcade-font-renderer/7174)
 ***
 Written with [StackEdit](https://stackedit.io/).
