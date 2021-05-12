@@ -35,6 +35,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [pxt-sight](#pxt-sight)
   - [smaller-tilemaps](#smaller-tilemaps)
   - [arcade-background-scroll](#arcade-background-scroll)
+  - [pxt-image-morph](#pxt-image-morph)
 - [**Tools**](#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
   - [pxt-arcade-asset-tool](#pxt-arcade-asset-tool)
@@ -264,6 +265,14 @@ Import this extension with the URL:
 Don't use a sprite to manually scroll the background - use this extension instead! It can scroll your background in with variable vx and vy too! This will add a `Scroller` category in the toolbox.
 
 [GitHub repo](https://github.com/riknoll/arcade-background-scroll)
+
+### pxt-image-morph
+Import this extension with the URL:
+> https://github.com/UnicycleDumpTruck/pxt-image-morph
+
+"Morph" images in MakeCode Arcade! Very cool for switching between images and could be used in say, the reveal of a bad guy's true form! Also very fun for switching between images that are used as instructions instead of a snap change which is boring. This adds an `Imagemorph` category in the toolbox. 
+
+[GitHub repo](https://github.com/UnicycleDumpTruck/pxt-image-morph) | [Demo](https://arcade.makecode.com/04630-02278-77688-89486) | [Forum post](https://forum.makecode.com/t/pixel-by-pixel-morphing-slows-down/2980/7?u=unsignedarduino)
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
