@@ -34,6 +34,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [pxt-countup](#pxt-countup)
   - [pxt-sight](#pxt-sight)
   - [smaller-tilemaps](#smaller-tilemaps)
+  - [arcade-background-scroll](#arcade-background-scroll)
 - [**Tools**](#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
   - [pxt-arcade-asset-tool](#pxt-arcade-asset-tool)
@@ -255,6 +256,14 @@ Import this extension with the URL:
 Now we get 4x4, 2x2, and "1x1, at your own risk" tilemaps! Initialize a tilemap and use 4x4 or 2x2 or 1x1 images to manually draw your tiles by code. Note this extension was made in 1 hour so it may be buggy and performance will not be as good as a 8x8 or 16x16 tilemap. This will add a `Smaller Tilemaps` category.
 
 [GitHub repo](https://github.com/riknoll/smaller-tilemaps)
+
+### arcade-background-scroll
+Import this extension with the URL:
+> https://github.com/riknoll/arcade-background-scroll
+
+Don't use a sprite to manually scroll the background - use this extension instead! It can scroll your background in with variable vx and vy too! This will add a `Scroller` category in the toolbox.
+
+[GitHub repo](https://github.com/riknoll/arcade-background-scroll)
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
