@@ -292,7 +292,7 @@ Import this extension with the URL:
 
 Man, rendering inventories are a pain in the butt. Until you add this extension! This extension allows you to make items, (which can hold an image, a name, and more) toolbars, (like Minecraft hotbars) and inventories! This extension adds an `Inventory` category in the toolbox. 
 
-[GitHub repo](https://github.com/UnsignedArduino/Inventory) | [Demo](https://makecode.com/_8zwdpsAoMEoW) | [Forum post](https://forum.makecode.com/t/inventory-extension/8662)
+[GitHub repo](https://github.com/UnsignedArduino/Inventory) | [Demo](https://makecode.com/_geYE0mfE2Ds6) | [Forum post](https://forum.makecode.com/t/inventory-extension/8662)
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
