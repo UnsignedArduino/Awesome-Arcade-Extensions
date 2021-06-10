@@ -36,6 +36,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [smaller-tilemaps](#smaller-tilemaps)
   - [arcade-background-scroll](#arcade-background-scroll)
   - [pxt-image-morph](#pxt-image-morph)
+  - [grafxkid-tiles](#grafxkid-tiles)
 - [**Tools**](#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
   - [pxt-arcade-asset-tool](#pxt-arcade-asset-tool)
@@ -259,6 +260,8 @@ Now we get 4x4, 2x2, and "1x1, at your own risk" tilemaps! Initialize a tilemap 
 [GitHub repo](https://github.com/riknoll/smaller-tilemaps)
 
 ### arcade-background-scroll
+> NOTE: This extension is depreciated! There is a new better extension under the same name but different repo that is now part of the built-in extensions! 
+
 Import this extension with the URL:
 > https://github.com/riknoll/arcade-background-scroll
 
@@ -273,6 +276,14 @@ Import this extension with the URL:
 "Morph" images in MakeCode Arcade! Very cool for switching between images and could be used in say, the reveal of a bad guy's true form! Also very fun for switching between images that are used as instructions instead of a snap change which is boring. This adds an `Imagemorph` category in the toolbox. 
 
 [GitHub repo](https://github.com/UnicycleDumpTruck/pxt-image-morph) | [Demo](https://arcade.makecode.com/04630-02278-77688-89486) | [Forum post](https://forum.makecode.com/t/pixel-by-pixel-morphing-slows-down/2980/7?u=unsignedarduino)
+
+### grafxkid-tiles
+Import this extension with the URL:
+> https://github.com/riknoll/grafxkid-tiles
+
+Don't want to draw up a platformer tileset? @logic_lab on the MakeCode Forums has converted GrafxKid's tileset into MakeCode tiles so you can use them as well! Comes in 4 different seasons and adds 4 new dropdown categorys in the tile category picker in the tilemap editor.
+
+[GitHub repo](https://github.com/riknoll/grafxkid-tiles) | [Forum post](https://forum.makecode.com/t/platformer-tileset/3023) 
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
