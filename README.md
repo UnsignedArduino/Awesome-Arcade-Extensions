@@ -172,7 +172,7 @@ Play beautiful melodies encoded in the RTTTL language in MakeCode with this exte
 
 ### arcade-shader
 Import this extension with the URL:
-> https://github.com/riknoll/arcade-shader/tree/master
+> https://github.com/riknoll/arcade-shader
 
 Arcade games can get more realistic with shadows! This extension will add a category called `Shaders` in the toolbox.
 
