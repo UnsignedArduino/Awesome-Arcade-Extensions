@@ -40,6 +40,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [Inventory](#inventory)
   - [Stats](#stats)
   - [pxt-real-multiplayer](#pxt-real-multiplayer)
+  - [pxt-arcade-database](#pxt-arcade-database)
 - [**Tools**](#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
   - [pxt-arcade-asset-tool](#pxt-arcade-asset-tool)
@@ -312,6 +313,14 @@ Import this extension with the URL:
 Makes coding multiplayer games over JACDAC easier! It also works in the simulator as well! Note at the time of writing, JACDAC for Arcade is in the middle of a rewrite so things are most likely broken. This will add a `Real Multiplayer` category to the toolbox.
 
 [GitHub repo](https://github.com/distintiva/pxt-real-multiplayer) | [Demo](https://arcade.makecode.com/84138-42853-06448-38206) | [Forum post](https://forum.makecode.com/t/new-extension-real-multiplayer-with-blocks/1202)
+
+### pxt-arcade-database
+Import this extension with the URL:
+> https://github.com/distintiva/pxt-arcade-database
+
+Extremely similar to the built-in `settings-block` extension, this extension also allows you to save data like a database! This will add a `Database` category.
+
+[GitHub repo](https://github.com/distintiva/pxt-arcade-database) | [Demo](https://arcade.makecode.com/07492-27953-74313-26225) | [Forum post](https://forum.makecode.com/t/new-extension-arcade-database-in-flash-memory/1198)
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
