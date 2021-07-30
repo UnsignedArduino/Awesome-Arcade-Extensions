@@ -2,7 +2,7 @@
 name: Extension suggestion
 about: Suggest an extension to be added to this list.
 title: Add [insert link to GitHub repo]
-labels: ''
+labels: new extension
 assignees: UnsignedArduino
 
 ---
