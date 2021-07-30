@@ -45,6 +45,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [arcade-sprite-pack](#arcade-sprite-pack)
   - [arcade-image-tools](#arcade-image-tools)
   - [arcade-font-renderer](#arcade-font-renderer)
+  - [games-gallery](#games-gallery)
 
 ## Built-in extensions
 These extensions are already built in to the editor, all you have to do is go to the toolbox, open the `Advanced` tab, click on `Extensions`, and click on the extension you want to import!
@@ -344,5 +345,14 @@ Find this tool here:
 > https://arcade-font-renderer.jacobcarpenter.com/
 
 [GitHub repo](https://github.com/jacobcarpenter/arcade-font-renderer) | [Forum post](https://forum.makecode.com/t/arcade-font-renderer/7174)
+
+### games-gallery
+@jacobcarpenter [on GitHub](https://github.com/jacobcarpenter) has written a neat tool that scrapes the [MakeCode Forum's arcade section](https://forum.makecode.com/c/share-your-arcade-projects-here/5) and shows the games in a gallery-like view! So you don't have to ~~suffer~~ and scroll through debug programs and tons of comments to find that dang link. You can also view the most liked-games of all-time and by author, like [me](https://games-gallery.jacobcarpenter.com/author/416) for example hehe.
+
+Find this tool here:
+> https://games-gallery.jacobcarpenter.com/
+
+[GitHub repo](https://github.com/jacobcarpenter/games-gallery) | [Forum post](https://forum.makecode.com/t/games-gallery-an-alternate-view-for-games-posted-to-these-forums/4025)
+
 ***
 Written with [StackEdit](https://stackedit.io/).
