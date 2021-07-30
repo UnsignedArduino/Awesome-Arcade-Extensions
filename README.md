@@ -301,7 +301,7 @@ Man, rendering inventories are a pain in the butt. Until you add this extension!
 Import this extension with the URL:
 > https://github.com/UnsignedArduino/Stats
 
-The only reason this extension exists so you can programmatically turn the FPS and sprite count on and off lol.
+The only reason this extension exists so you can programmatically turn the FPS and sprite count on and off lol. This adds a `Stats` category to your toolbox.
 
 [GitHub repo](https://github.com/UnsignedArduino/Stats) | [Forum post](https://forum.makecode.com/t/stat-extension/8859)
 
@@ -309,7 +309,7 @@ The only reason this extension exists so you can programmatically turn the FPS a
 Import this extension with the URL:
 > https://github.com/distintiva/pxt-real-multiplayer
 
-Makes coding multiplayer games over JACDAC easier! It also works in the simulator as well! Note at the time of writing, JACDAC for Arcade is in the middle of a rewrite so things are most likely broken. 
+Makes coding multiplayer games over JACDAC easier! It also works in the simulator as well! Note at the time of writing, JACDAC for Arcade is in the middle of a rewrite so things are most likely broken. This will add a `Real Multiplayer` category to the toolbox.
 
 [GitHub repo](https://github.com/distintiva/pxt-real-multiplayer) | [Demo](https://arcade.makecode.com/84138-42853-06448-38206) | [Forum post](https://forum.makecode.com/t/new-extension-real-multiplayer-with-blocks/1202)
 
