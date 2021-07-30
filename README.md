@@ -39,6 +39,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [grafxkid-tiles](#grafxkid-tiles)
   - [Inventory](#inventory)
   - [Stats](#stats)
+  - [pxt-real-multiplayer](#pxt-real-multiplayer)
 - [**Tools**](#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
   - [pxt-arcade-asset-tool](#pxt-arcade-asset-tool)
@@ -303,6 +304,14 @@ Import this extension with the URL:
 The only reason this extension exists so you can programmatically turn the FPS and sprite count on and off lol.
 
 [GitHub repo](https://github.com/UnsignedArduino/Stats) | [Forum post](https://forum.makecode.com/t/stat-extension/8859)
+
+### pxt-real-multiplayer
+Import this extension with the URL:
+> https://github.com/distintiva/pxt-real-multiplayer
+
+Makes coding multiplayer games over JACDAC easier! It also works in the simulator as well! Note at the time of writing, JACDAC for Arcade is in the middle of a rewrite so things are most likely broken. 
+
+[GitHub repo](https://github.com/distintiva/pxt-real-multiplayer) | [Demo](https://arcade.makecode.com/84138-42853-06448-38206) | [Forum post](https://forum.makecode.com/t/new-extension-real-multiplayer-with-blocks/1202)
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
