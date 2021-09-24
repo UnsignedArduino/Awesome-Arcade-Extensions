@@ -43,6 +43,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [pxt-arcade-database](#pxt-arcade-database)
   - [TilemapPath](#tilemappath)
   - [arcade-premium-life](#arcade-premium-life)
+  - [ColorBlock](#colorblock)
 - [**Tools**](#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
   - [pxt-arcade-asset-tool](#pxt-arcade-asset-tool)
@@ -339,6 +340,14 @@ Import this extension with the URL:
 It's life but _better_. This extension uses the default set life and change life by blocks to change the values, but for configuring the look you can use the blocks in the `Profile Life` category. 
 
 [GitHub repo](https://github.com/jwunderl/arcade-premium-life) | [Demo](https://jwunderl.github.io/arcade-premium-life/)
+
+### ColorBlock
+Import this extension with the URL:
+> https://github.com/UnsignedArduino/ColorBlock
+
+Imagine memorizing the values of colors in MakeCode Arcade. This extension will add a block at the very bottom of the `Images` category. 
+
+[GitHub](https://github.com/UnsignedArduino/ColorBlock) | [Forum post](https://forum.makecode.com/t/colorblock-extension/9518)
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
