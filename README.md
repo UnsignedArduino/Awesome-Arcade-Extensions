@@ -42,6 +42,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [pxt-real-multiplayer](#pxt-real-multiplayer)
   - [pxt-arcade-database](#pxt-arcade-database)
   - [TilemapPath](#tilemappath)
+  - [arcade-premium-life](#arcade-premium-life)
 - [**Tools**](#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
   - [pxt-arcade-asset-tool](#pxt-arcade-asset-tool)
@@ -330,6 +331,14 @@ Import this extension with the URL:
 Don't manually place walls to make your A-star paths do what you want, use this! You can set a sprite to follow a path between tilemap locations and have handlers when they finish. Note that everytime you set a path, it will recalculate the paths using the A-star extension which can take a long time depending on how big the tilemap is and how many elements there are. This extension adds a `TilemapPath` category. 
 
 [GitHub repo](https://github.com/UnsignedArduino/TilemapPath) | [Demo](https://makecode.com/_87j1jxLV358K) | [Forum post](https://forum.makecode.com/t/tilemappath-extension/9480)
+
+### arcade-premium-life
+Import this extension with the URL:
+> https://github.com/jwunderl/arcade-premium-life
+
+It's life but _better_. This extension uses the default set life and change life by blocks to change the values, but for configuring the look you can use the blocks in the `Profile Life` category. 
+
+[GitHub repo](https://github.com/jwunderl/arcade-premium-life) | [Demo](https://jwunderl.github.io/arcade-premium-life/)
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
