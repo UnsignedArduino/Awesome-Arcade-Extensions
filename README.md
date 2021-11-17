@@ -45,7 +45,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [TilemapPath](#tilemappath)
   - [arcade-premium-life](#arcade-premium-life)
   - [ColorBlock](#colorblock)
-- [**Experimental-extensions**](#Experimental-extensions)
+- [**Experimental-extensions**](#experimental-extensions)
   - [arcade-soundtrack](#arcade-soundtrack)
 - [**Tools**](#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
@@ -189,6 +189,8 @@ Arcade games can get more realistic with shadows! This extension will add a cate
 [GitHub repo](https://github.com/riknoll/arcade-shader) | [Forum post](https://forum.makecode.com/t/shader-extension/4860) 
 
 ### small-tilemaps
+> NOTE: This extension is depreciated! There is now an 8x8 tilemap block in the built-in tilemaps extension!
+
 Import this extension with the URL:
 > https://github.com/riknoll/small-tilemaps
 
