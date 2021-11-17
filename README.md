@@ -44,7 +44,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [TilemapPath](#tilemappath)
   - [arcade-premium-life](#arcade-premium-life)
   - [ColorBlock](#colorblock)
-  - [**Experimental Extensions**](#Experimental Extensions)
+  - [**Experimental-Extensions**](#Experimental-Extensions)
   - [ arcade-soundtrack](#arcade-soundtrack)
 - [**Tools**](#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
@@ -351,7 +351,7 @@ Imagine memorizing the values of colors in MakeCode Arcade. This extension will 
 
 [GitHub](https://github.com/UnsignedArduino/ColorBlock) | [Forum post](https://forum.makecode.com/t/colorblock-extension/9518)
 
-## Experimental Extensions
+## Experimental-Extensions
 "VERY UNSTABLE" -livcheerful
 
 ### arcade-soundtrack
