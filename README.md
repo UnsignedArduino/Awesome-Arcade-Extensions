@@ -349,6 +349,23 @@ Imagine memorizing the values of colors in MakeCode Arcade. This extension will 
 
 [GitHub](https://github.com/UnsignedArduino/ColorBlock) | [Forum post](https://forum.makecode.com/t/colorblock-extension/9518)
 
+## Experimental Extensions
+"VERY UNSTABLE" -livcheerful
+
+### arcade-soundtrack
+
+Import this extension with the URL:
+> https://github.com/livcheerful/arcade-soundtrack
+
+In this very buggy Extinction you can make sound soundtrack but it is very buggy and confusing and might brake your game.
+This was made by Livcheerful in a hackathon
+
+[GitHub](https://github.com/livcheerful/arcade-soundtrack) | [Forum post](https://forum.makecode.com/t/hackathon-link-request/9751/2?u=unsignedarduino) | [Demo](https://arcade.makecode.com/10829-55411-68884-03658) 
+
+ 
+
+ 
+
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
 ### Convert-Image-to-MakeCode-Arcade-Sprite
