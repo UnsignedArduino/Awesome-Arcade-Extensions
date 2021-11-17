@@ -17,7 +17,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
 - [**Not built-in extensions**](#not-built-in-extensions)
   - [character-animations](#character-animations)
   - [arcade-tilemap-a-star](#arcade-tilemap-a-star)
-  - [arcade-custome-menu](#arcade-custom-menu)
+  - [arcade-custom-menu](#arcade-custom-menu)
   - [arcade-block-objects](#arcade-block-objects)
   - [arcade-story](#arcade-story)
   - [arcade-sprite-util](#arcade-sprite-util)
