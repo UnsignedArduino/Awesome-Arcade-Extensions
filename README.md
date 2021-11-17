@@ -1,3 +1,4 @@
+
 # MakeCode Arcade Extensions
 This is a list of MakeCode Arcade extensions that I find super useful in my projects. If you would like to suggest an extension be added, please open an issue with a link to the extension on GitHub. Or even better, open a pull request for adding an extension! Make sure to include a description, import url, links to it's GitHub repo, GitHub Pages example if any, forum post showcasing the extension if any, and an entry in the table of contents!
 
@@ -44,6 +45,8 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [TilemapPath](#tilemappath)
   - [arcade-premium-life](#arcade-premium-life)
   - [ColorBlock](#colorblock)
+- [**Experimental-extensions**](#Experimental-extensions)
+  - [arcade-soundtrack](#arcade-soundtrack)
 - [**Tools**](#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
   - [pxt-arcade-asset-tool](#pxt-arcade-asset-tool)
@@ -348,6 +351,18 @@ Import this extension with the URL:
 Imagine memorizing the values of colors in MakeCode Arcade. This extension will add a block at the very bottom of the `Images` category. 
 
 [GitHub](https://github.com/UnsignedArduino/ColorBlock) | [Forum post](https://forum.makecode.com/t/colorblock-extension/9518)
+
+## Experimental-extensions
+
+Shouldn't need an explanation: "VERY UNSTABLE" - @livcheerful
+
+### arcade-soundtrack
+Import this extension with the URL:
+> https://github.com/livcheerful/arcade-soundtrack
+
+In this extension you can make soundtracks within images! But it is pretty confusing and "might break your game." This extension was made by @livcheerful in a hackathon.
+
+[GitHub](https://github.com/livcheerful/arcade-soundtrack) | [Forum post](https://forum.makecode.com/t/hackathon-link-request/9751/2?u=unsignedarduino) | [Demo](https://arcade.makecode.com/10829-55411-68884-03658) 
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
