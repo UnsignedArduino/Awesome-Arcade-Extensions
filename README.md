@@ -45,6 +45,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [TilemapPath](#tilemappath)
   - [arcade-premium-life](#arcade-premium-life)
   - [ColorBlock](#colorblock)
+  - [arcade-camera-offset](#arcade-camera-offset)
 - [**Experimental-extensions**](#experimental-extensions)
   - [arcade-soundtrack](#arcade-soundtrack)
 - [**Tools**](#tools)
@@ -353,6 +354,14 @@ Import this extension with the URL:
 Imagine memorizing the values of colors in MakeCode Arcade. This extension will add a block at the very bottom of the `Images` category. 
 
 [GitHub](https://github.com/UnsignedArduino/ColorBlock) | [Forum post](https://forum.makecode.com/t/colorblock-extension/9518)
+
+### arcade-camera-offset
+Import this extension with the URL:
+> https://github.com/riknoll/arcade-camera-offset
+
+This simple extension adds a block to the `Scene` category that allows you to follow a sprite with the camera with an offset! Much better then hacking a sprite to always be off a certain amount. 
+
+[GitHub repo](https://github.com/riknoll/arcade-camera-offset) | [Forum post](https://forum.makecode.com/t/camera-offset/10263?u=unsignedarduino)
 
 ## Experimental-extensions
 
