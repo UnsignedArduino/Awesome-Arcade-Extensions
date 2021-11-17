@@ -46,6 +46,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [arcade-premium-life](#arcade-premium-life)
   - [ColorBlock](#colorblock)
   - [arcade-camera-offset](#arcade-camera-offset)
+  - [RPGMuisic](#rpgmuisic)
 - [**Experimental-extensions**](#experimental-extensions)
   - [arcade-soundtrack](#arcade-soundtrack)
 - [**Tools**](#tools)
@@ -362,6 +363,14 @@ Import this extension with the URL:
 This simple extension adds a block to the `Scene` category that allows you to follow a sprite with the camera with an offset! Much better then hacking a sprite to always be off a certain amount. 
 
 [GitHub repo](https://github.com/riknoll/arcade-camera-offset) | [Forum post](https://forum.makecode.com/t/camera-offset/10263?u=unsignedarduino)
+
+### RPGMuisic
+Import this extension with the URL:
+> https://github.com/LucasMayhew/RPGMuisic
+
+This extension adds another category called `Music` which contains a block to play some (very nice) looping music made by @LucasMayhew!
+
+[GitHub repo](https://github.com/LucasMayhew/RPGMuisic) | [Demo](https://arcade.makecode.com/06547-32796-52098-57963) | [Forum post](https://forum.makecode.com/t/an-extension-that-adds-loopable-songs-to-use-in-your-games/10894?u=unsignedarduino)
 
 ## Experimental-extensions
 
