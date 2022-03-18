@@ -106,7 +106,7 @@ The new and improved `arcade-story` now part of the built-in extensions with new
 
 ### arcade-tile-util
 Import this extension with the URL:
-> https://github.com/livcheerful/arcade-soundtrack
+> https://github.com/microsoft/arcade-tile-util
 
 This is the updated tilemap extension allows you to do a lot more with tiles animate them move them and much much more.....
 
