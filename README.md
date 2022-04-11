@@ -14,6 +14,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [arcade-minimap](#arcade-minimap)
   - [arcade-grid](#arcade-grid)
   - [arcade-storytelling](#arcade-storytelling)
+  - [arcade-tile-util](#arcade-tile-util)
 - [**Not built-in extensions**](#not-built-in-extensions)
   - [character-animations](#character-animations)
   - [arcade-tilemap-a-star](#arcade-tilemap-a-star)
@@ -102,6 +103,15 @@ Have an extension do that hard work of aligning sprites to a tilemap! This will 
 The new and improved `arcade-story` now part of the built-in extensions with new improvements! This will add a category called `Story` in the toolbox. Note the old story extension is not compatible at all with this one!
 
 [Official docs](https://arcade.makecode.com/pkg/microsoft/arcade-storytelling) | [GitHub repo](https://github.com/microsoft/arcade-storytelling) | [Forum post](https://forum.makecode.com/t/new-arcade-story-extension/6744) 
+
+### arcade-tile-util
+Import this extension with the URL:
+> https://github.com/microsoft/arcade-tile-util
+
+This is the updated tilemap extension allows you to do a lot more with tiles animate them move them and much much more.....
+
+[GitHub](https://github.com/microsoft/arcade-tile-util) | [Stream](https://www.twitch.tv/videos/1429569379) | [Demo](https://arcade.makecode.com/10829-55411-68884-03658) 
+
 
 ## Not built-in extensions
 The following extensions, while just as good as the ones listed above, will require some slightly different steps while importing. First go to the toolbox, open the `Advanced` tab, click on `Extensions`, and you will see a text box that says `Search or enter project URL...`. This is where you will paste in the URL to the extension. The URL will be posted along with the listing.
@@ -383,6 +393,7 @@ Import this extension with the URL:
 In this extension you can make soundtracks within images! But it is pretty confusing and "might break your game." This extension was made by @livcheerful in a hackathon.
 
 [GitHub](https://github.com/livcheerful/arcade-soundtrack) | [Forum post](https://forum.makecode.com/t/hackathon-link-request/9751/2?u=unsignedarduino) | [Demo](https://arcade.makecode.com/10829-55411-68884-03658) 
+
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
