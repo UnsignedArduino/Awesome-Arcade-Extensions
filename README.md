@@ -408,7 +408,7 @@ This extension allows custom sound effects other than the boring square wave! Th
 Import this extension with the URL:
 > https://github.com/AqeeAqee/arcade-snapshot
 
-This extension allows you to take a screenshot of the screen, or a snapshot of the current tilemap and print it on the console! 
+This extension allows you to take a screenshot of the screen, or a snapshot of the current tilemap and print it on the console! It will add a category called "Snapshot". 
 
 [GitHub repo](https://github.com/AqeeAqee/arcade-snapshot) | [Forum post](https://forum.makecode.com/t/a-snapshot-extension-for-screen-or-tilemap/13064)
 
@@ -416,7 +416,7 @@ This extension allows you to take a screenshot of the screen, or a snapshot of t
 Import this extension with the URL:
 > https://github.com/kiwiphoenix364/pxt-deltatime
 
-This extension exposes the delta time function in blocks, so projects that rely movement or time based on frames can work when the game is running slower than expected! Make sure to look at the [example](https://arcade.makecode.com/71701-66104-73982-41393) on how to use it!
+This small extension adds a category called "Delta" which has a single block that exposes the delta time function in blocks, so projects that rely movement or time based on frames can work when the game is running slower than expected! Make sure to look at the [example](https://arcade.makecode.com/71701-66104-73982-41393) on how to use it!
 
 [GitHub repo](https://github.com/kiwiphoenix364/pxt-deltatime) | [Demo](https://arcade.makecode.com/71701-66104-73982-41393) | [Forum post](https://forum.makecode.com/t/extension-for-adding-delta-time-to-blocks/13194)
 
@@ -424,7 +424,7 @@ This extension exposes the delta time function in blocks, so projects that rely 
 Import this extension with the URL:
 > https://github.com/AqeeAqee/pxt-raycasting/
 
-Raycasting has been implemented in many projects before, but this extension brings along a blocks API, allowing raycasting games in blocks! Make sure to check the [Forum post](https://forum.makecode.com/t/raycasting-3d-render-blocks-edition/12921) out because there are several feature previews of things like sprites saying text, wall scale, and jump! (Note by the time you read this, it could be already implemented!)
+Raycasting has been implemented in many projects before, but this extension brings along a blocks API, allowing raycasting games in blocks! Make sure to check the [Forum post](https://forum.makecode.com/t/raycasting-3d-render-blocks-edition/12921) out because there are several feature previews of things like sprites saying text, wall scale, and jump! (Note by the time you read this, it could be already implemented!) This extension adds a "3D Render" category to the toolbox!
 
 [GitHub repo](https://github.com/AqeeAqee/pxt-raycasting/) | [Demo](https://arcade.makecode.com/59169-39428-75390-60169) | [Forum post](https://forum.makecode.com/t/raycasting-3d-render-blocks-edition/12921)
 
