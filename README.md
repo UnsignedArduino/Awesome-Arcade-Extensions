@@ -59,6 +59,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [arcade-image-tools](#arcade-image-tools)
   - [arcade-font-renderer](#arcade-font-renderer)
   - [games-gallery](#games-gallery)
+  - [Image-to-MakeCode-Arcade](#Image-to-MakeCode-Arcade)
 
 ## Built-in extensions
 These extensions are already built in to the editor, all you have to do is go to the toolbox, open the `Advanced` tab, click on `Extensions`, and click on the extension you want to import!
@@ -462,6 +463,15 @@ Find this tool here:
 > https://games-gallery.jacobcarpenter.com/
 
 [GitHub repo](https://github.com/jacobcarpenter/games-gallery) | [Forum post](https://forum.makecode.com/t/games-gallery-an-alternate-view-for-games-posted-to-these-forums/4025)
+
+### Image-to-MakeCode-Arcade
+
+I have written a Python script that will turn images and multi-frame GIFs into MakeCode Arcade images and arrays! Note that this tools requires at least Python 3.9 on a computer, and command line knowledge is highly recommended!
+
+Find this tool here:
+> https://github.com/UnsignedArduino/Image-to-MakeCode-Arcade
+
+[GitHub repo](https://github.com/UnsignedArduino/Image-to-MakeCode-Arcade) | [Forum post](https://forum.makecode.com/t/image-to-makecode-arcade-image-converter-again/12367)
 
 ***
 Written with [StackEdit](https://stackedit.io/).
