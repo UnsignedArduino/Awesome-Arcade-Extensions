@@ -17,7 +17,8 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
 - [**Not built-in extensions**](#not-built-in-extensions)
   - [character-animations](#character-animations)
   - [arcade-tilemap-a-star](#arcade-tilemap-a-star)
-  - [arcade-custom-menu](#arcade-custom-menu)
+  - [arcade-custom-menu](#arcade-custom-menu) and **1** fork:
+	  - [arcade-custom-menu by AqeeAqee](#arcade-custom-menu-by-aqeeaqee)
   - [arcade-block-objects](#arcade-block-objects)
   - [arcade-story](#arcade-story)
   - [arcade-sprite-util](#arcade-sprite-util)
@@ -138,12 +139,27 @@ Help your sprites find their way around your tilemaps with this extension! Just 
 [GitHub repo](https://github.com/jwunderl/arcade-tilemap-a-star) | [Forum post](https://forum.makecode.com/t/tilemap-path-finding-a-beta/1846) | [Wikipedia article on the A* algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
 
 ### arcade-custom-menu
+
+> Note: This extension has **1** fork! Please take care in selecting the correct extension!
+
 Import this extension with the URL:
 > https://github.com/riknoll/arcade-custom-menu
 
 One of my favorite extensions, it allows you to make a menu out of a list of strings! Use this for selecting options where using `game.askForNumber()` and `game.askForString()` would be unintuitive or clumsy. This will add another category in the toolbox called `BlockMenu`.
 
 [GitHub repo](https://github.com/riknoll/arcade-custom-menu)
+
+There is **1** available fork of this extension.
+
+#### arcade-custom-menu by AqeeAqee
+
+Import this extension with the URL:
+> https://github.com/AqeeAqee/arcade-custom-menu
+
+This fork of the extension adds icons and multi-column support! 
+
+[GitHub repo](https://github.com/AqeeAqee/arcade-custom-menu) | [Demo](https://arcade.makecode.com/11158-18248-69309-63621) | [Forum post](https://forum.makecode.com/t/block-menu-icons-multi-column-edition/13286)
+
 
 ### arcade-block-objects
 Import this extension with the URL:
