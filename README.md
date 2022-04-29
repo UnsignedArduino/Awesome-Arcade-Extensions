@@ -51,6 +51,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [pxt-sound-effects](#pxt-sound-effects)
   - [arcade-snapshot](#arcade-snapshot)
   - [pxt-deltatime](#pxt-deltatime)
+  - [pxt-raycasting](#pxt-raycasting)
 - [**Experimental extensions**](#experimental-extensions)
   - [arcade-soundtrack](#arcade-soundtrack)
 - [**Tools**](#tools)
@@ -418,6 +419,14 @@ Import this extension with the URL:
 This extension exposes the delta time function in blocks, so projects that rely movement or time based on frames can work when the game is running slower than expected! Make sure to look at the [example](https://arcade.makecode.com/71701-66104-73982-41393) on how to use it!
 
 [GitHub repo](https://github.com/kiwiphoenix364/pxt-deltatime) | [Demo](https://arcade.makecode.com/71701-66104-73982-41393) | [Forum post](https://forum.makecode.com/t/extension-for-adding-delta-time-to-blocks/13194)
+
+### pxt-raycasting
+Import this extension with the URL:
+> https://github.com/AqeeAqee/pxt-raycasting/
+
+Raycasting has been implemented in many projects before, but this extension brings along a blocks API, allowing raycasting games in blocks! Make sure to check the [Forum post](https://forum.makecode.com/t/raycasting-3d-render-blocks-edition/12921) out because there are several feature previews of things like sprites saying text, wall scale, and jump! (Note by the time you read this, it could be already implemented!)
+
+[GitHub repo](https://github.com/AqeeAqee/pxt-raycasting/) | [Demo](https://arcade.makecode.com/59169-39428-75390-60169) | [Forum post](https://forum.makecode.com/t/raycasting-3d-render-blocks-edition/12921)
 
 ## Experimental-extensions
 
