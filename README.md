@@ -50,6 +50,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [Musical-Images](#Musical-Images)
   - [pxt-sound-effects](#pxt-sound-effects)
   - [arcade-snapshot](#arcade-snapshot)
+  - [pxt-deltatime](#pxt-deltatime)
 - [**Experimental extensions**](#experimental-extensions)
   - [arcade-soundtrack](#arcade-soundtrack)
 - [**Tools**](#tools)
@@ -410,6 +411,14 @@ This extension allows you to take a screenshot of the screen, or a snapshot of t
 
 [GitHub repo](https://github.com/AqeeAqee/arcade-snapshot) | [Forum post](https://forum.makecode.com/t/a-snapshot-extension-for-screen-or-tilemap/13064)
 
+### pxt-deltatime
+Import this extension with the URL:
+> https://github.com/kiwiphoenix364/pxt-deltatime
+
+This extension exposes the delta time function in blocks, so projects that rely movement or time based on frames can work when the game is running slower than expected! Make sure to look at the [example](https://arcade.makecode.com/71701-66104-73982-41393) on how to use it!
+
+[GitHub repo](https://github.com/kiwiphoenix364/pxt-deltatime) | [Demo](https://arcade.makecode.com/71701-66104-73982-41393) | [Forum post](https://forum.makecode.com/t/extension-for-adding-delta-time-to-blocks/13194)
+
 ## Experimental-extensions
 
 Shouldn't need an explanation: "VERY UNSTABLE" - @livcheerful
@@ -421,7 +430,6 @@ Import this extension with the URL:
 In this extension you can make soundtracks within images! But it is pretty confusing and "might break your game." This extension was made by @livcheerful in a hackathon.
 
 [GitHub](https://github.com/livcheerful/arcade-soundtrack) | [Forum post](https://forum.makecode.com/t/hackathon-link-request/9751/2?u=unsignedarduino) | [Demo](https://arcade.makecode.com/10829-55411-68884-03658) 
-
 
 ## Tools
 Yes, this is about useful MakeCode Arcade extensions but these tools will level up your game-making experience!
