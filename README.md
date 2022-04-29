@@ -1,4 +1,5 @@
 
+
 # MakeCode Arcade Extensions
 This is a list of MakeCode Arcade extensions that I find super useful in my projects. If you would like to suggest an extension be added, please open an issue with a link to the extension on GitHub. Or even better, open a pull request for adding an extension! Make sure to include a description, import url, links to it's GitHub repo, GitHub Pages example if any, forum post showcasing the extension if any, and an entry in the table of contents!
 
@@ -289,6 +290,7 @@ Now we get 4x4, 2x2, and "1x1, at your own risk" tilemaps! Initialize a tilemap 
 
 ### arcade-background-scroll
 > NOTE: This extension is depreciated! There is a new better extension under the same name but different repo that is now part of the built-in extensions! 
+> As of March 2022, the built-in extension supports parallax! ([Forum post](https://forum.makecode.com/t/announcement-arcade-background-scroll-now-supports-parallax/12479))
 
 Import this extension with the URL:
 > https://github.com/riknoll/arcade-background-scroll
