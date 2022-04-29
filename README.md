@@ -1,5 +1,3 @@
-
-
 # MakeCode Arcade Extensions
 This is a list of MakeCode Arcade extensions that I find super useful in my projects. If you would like to suggest an extension be added, please open an issue with a link to the extension on GitHub. Or even better, open a pull request for adding an extension! Make sure to include a description, import url, links to it's GitHub repo, GitHub Pages example if any, forum post showcasing the extension if any, and an entry in the table of contents!
 
@@ -51,6 +49,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [RPGMuisic](#rpgmuisic)
   - [Musical-Images](#Musical-Images)
   - [pxt-sound-effects](#pxt-sound-effects)
+  - [arcade-snapshot](#arcade-snapshot)
 - [**Experimental extensions**](#experimental-extensions)
   - [arcade-soundtrack](#arcade-soundtrack)
 - [**Tools**](#tools)
@@ -402,6 +401,14 @@ Import this extension with the URL:
 This extension allows custom sound effects other than the boring square wave! This adds a new category called "Sound Effects".
 
 [GitHub repo](https://github.com/klausw3/pxt-sound-effects) | [Demo](https://arcade.makecode.com/44206-54587-15263-92450) | [Forum post](https://forum.makecode.com/t/testing-modifications-to-the-sound-engine/3351/17?u=unsignedarduino)
+
+### arcade-snapshot
+Import this extension with the URL:
+> https://github.com/AqeeAqee/arcade-snapshot
+
+This extension allows you to take a screenshot of the screen, or a snapshot of the current tilemap and print it on the console! 
+
+[GitHub repo](https://github.com/AqeeAqee/arcade-snapshot) | [Forum post](https://forum.makecode.com/t/a-snapshot-extension-for-screen-or-tilemap/13064)
 
 ## Experimental-extensions
 
