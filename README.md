@@ -53,6 +53,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [arcade-snapshot](#arcade-snapshot)
   - [pxt-deltatime](#pxt-deltatime)
   - [pxt-raycasting](#pxt-raycasting)
+  - [pxt-blur](#pxt-blur)
 - [**Experimental extensions**](#experimental-extensions)
   - [arcade-soundtrack](#arcade-soundtrack)
 - [**Tools**](#tools)
@@ -443,6 +444,14 @@ Import this extension with the URL:
 Raycasting has been implemented in many projects before, but this extension brings along a blocks API, allowing raycasting games in blocks! Make sure to check the [Forum post](https://forum.makecode.com/t/raycasting-3d-render-blocks-edition/12921) out because there are several feature previews of things like sprites saying text, wall scale, and jump! (Note by the time you read this, it could be already implemented!) This extension adds a "3D Render" category to the toolbox!
 
 [GitHub repo](https://github.com/AqeeAqee/pxt-raycasting/) | [Demo](https://arcade.makecode.com/59169-39428-75390-60169) | [Forum post](https://forum.makecode.com/t/raycasting-3d-render-blocks-edition/12921)
+
+### pxt-blur
+Import this extension with the URL:
+> https://github.com/kiwiphoenix364/pxt-blur
+
+This simple extension allows you to blur the screen in and out, just like the Colors extension does with fading! Currently, there are some limitations and one of the blocks do not work yet, check the [Forum thread](https://forum.makecode.com/t/blur-extension/12135) for updates - it might be fixed by the time you read this! This adds a category called "Blur".
+
+[GitHub repo](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions/issues/45) | [Demo](https://arcade.makecode.com/46662-72254-40051-03086) | [Forum post](https://forum.makecode.com/t/blur-extension/12135)
 
 ## Experimental-extensions
 
