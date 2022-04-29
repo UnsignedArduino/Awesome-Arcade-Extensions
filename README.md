@@ -49,6 +49,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [arcade-camera-offset](#arcade-camera-offset)
   - [RPGMuisic](#rpgmuisic)
   - [Musical-Images](#Musical-Images)
+  - [pxt-sound-effects](#pxt-sound-effects)
 - [**Experimental extensions**](#experimental-extensions)
   - [arcade-soundtrack](#arcade-soundtrack)
 - [**Tools**](#tools)
@@ -390,6 +391,14 @@ Import this extension with the URL:
 This extension allows you to easily add complex music to your games with a [script](https://github.com/UnsignedArduino/Musical-Images-Generator)! This adds a new category called "MusicalImages" to your toolbox. 
 
 [GitHub repo](https://github.com/UnsignedArduino/Musical-Images) | [Demo](https://makecode.com/_0t46cj0j24jH)
+
+### pxt-sound-effects
+Import this extension with the URL:
+> https://github.com/klausw3/pxt-sound-effects
+
+This extension allows custom sound effects other than the boring square wave! This adds a new category called "Sound Effects".
+
+[GitHub repo](https://github.com/klausw3/pxt-sound-effects) | [Demo](https://arcade.makecode.com/44206-54587-15263-92450) | [Forum post](https://forum.makecode.com/t/testing-modifications-to-the-sound-engine/3351/17?u=unsignedarduino)
 
 ## Experimental-extensions
 
