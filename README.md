@@ -48,7 +48,8 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [ColorBlock](#colorblock)
   - [arcade-camera-offset](#arcade-camera-offset)
   - [RPGMuisic](#rpgmuisic)
-- [**Experimental-extensions**](#experimental-extensions)
+  - [Musical-Images](#Musical-Images)
+- [**Experimental extensions**](#experimental-extensions)
   - [arcade-soundtrack](#arcade-soundtrack)
 - [**Tools**](#tools)
   - [Convert-Image-to-MakeCode-Arcade-Sprite](#convert-image-to-makecode-arcade-sprite)
@@ -381,6 +382,14 @@ Import this extension with the URL:
 This extension adds another category called `Music` which contains a block to play some (very nice) looping music made by @LucasMayhew!
 
 [GitHub repo](https://github.com/LucasMayhew/RPGMuisic) | [Demo](https://arcade.makecode.com/06547-32796-52098-57963) | [Forum post](https://forum.makecode.com/t/an-extension-that-adds-loopable-songs-to-use-in-your-games/10894?u=unsignedarduino)
+
+### Musical-Images
+Import this extension with the URL:
+> https://github.com/UnsignedArduino/Musical-Images
+
+This extension allows you to easily add complex music to your games with a [script](https://github.com/UnsignedArduino/Musical-Images-Generator)! This adds a new category called "MusicalImages" to your toolbox. 
+
+[GitHub repo](https://github.com/UnsignedArduino/Musical-Images) | [Demo](https://makecode.com/_0t46cj0j24jH)
 
 ## Experimental-extensions
 
