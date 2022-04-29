@@ -432,7 +432,7 @@ Find this tool here:
 [GitHub repo](https://github.com/riknoll/pxt-arcade-asset-tool/)
 
 ### arcade-sprite-pack
-Have a bunch of images you want to send to someone, but they hate exercising their pinkie and pointer finger? This will convert a set of images into a MakeCode project that, when you import, will put the images into the image gallery!
+Have a bunch of images you want to send to someone, but they hate exercising their pinkie and pointer finger? This will convert a set of images into a MakeCode project that, when you import, will put the images into the image gallery! And as of December 2021, this tool has been updated to be even better than before, with support for animations, tiles, and tilemaps! ([Forum post](https://forum.makecode.com/t/the-arcade-sprite-pack-tool-is-back-in-business/11392))
 
 Find this tool here:
 > https://shakao.github.io/arcade-sprite-pack/
