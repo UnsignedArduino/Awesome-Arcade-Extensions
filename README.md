@@ -449,7 +449,7 @@ Raycasting has been implemented in many projects before, but this extension brin
 Import this extension with the URL:
 > https://github.com/kiwiphoenix364/pxt-blur
 
-This simple extension allows you to blur the screen in and out, just like the Colors extension does with fading! Currently, there are some limitations and one of the blocks do not work yet, check the [Forum thread](https://forum.makecode.com/t/blur-extension/12135) for updates - it might be fixed by the time you read this! This adds a category called "Blur".
+This extension allows you to blur the screen in and out, just like the Colors extension does with fading! This adds a category called "Blur".
 
 [GitHub repo](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions/issues/45) | [Demo](https://arcade.makecode.com/46662-72254-40051-03086) | [Forum post](https://forum.makecode.com/t/blur-extension/12135)
 
