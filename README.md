@@ -433,9 +433,9 @@ This extension allows you to take a screenshot of the screen, or a snapshot of t
 Import this extension with the URL:
 > https://github.com/kiwiphoenix364/pxt-deltatime
 
-This small extension adds a category called "Delta" which has a single block that exposes the delta time function in blocks, so projects that rely movement or time based on frames can work when the game is running slower than expected! Make sure to look at the [example](https://arcade.makecode.com/71701-66104-73982-41393) on how to use it!
+This small extension adds a category called "Delta" which has a single block that exposes the delta time function in blocks, so projects that rely movement or time based on frames can work when the game is running slower than expected! Make sure to look at the [example](https://makecode.com/_Y0j7ef139dmo) on how to use it!
 
-[GitHub repo](https://github.com/kiwiphoenix364/pxt-deltatime) | [Demo](https://arcade.makecode.com/71701-66104-73982-41393) | [Forum post](https://forum.makecode.com/t/extension-for-adding-delta-time-to-blocks/13194)
+[GitHub repo](https://github.com/kiwiphoenix364/pxt-deltatime) | [Demo](https://makecode.com/_Y0j7ef139dmo) | [Forum post](https://forum.makecode.com/t/extension-for-adding-delta-time-to-blocks/13194)
 
 ### pxt-raycasting
 Import this extension with the URL:
