@@ -55,6 +55,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [pxt-deltatime](#pxt-deltatime)
   - [pxt-blur](#pxt-blur)
   - [pxt-zoom](#pxt-zoom)
+  - [arcade-sprite-events](#arcade-sprite-events)
 - [**Experimental extensions**](#experimental-extensions)
   - [arcade-soundtrack](#arcade-soundtrack)
 - [**Tools**](#tools)
@@ -460,6 +461,14 @@ Import this extension with the URL:
 This extension allows you to zoom in or out of the screen by calling a single block in an `on game update` block! A very simple (0 < x < 1 for zoom out, and x > 1 to zoom in, and negatives for flipping screen upside down) extension that adds a "Zoom" category in the toolbox.
 
 [GitHub repo](https://github.com/kiwiphoenix364/pxt-zoom) | [Demo](https://arcade.makecode.com/55896-03193-59005-39058) | [Forum post](https://forum.makecode.com/t/zoom-extension/13745)
+
+### arcade-sprite-events
+Import this extension with the URL:
+> https://github.com/riknoll/arcade-sprite-events
+
+The default sprite overlap and tilemap overlap blocks are called _for every frame it is happening_, which can lead to unexpected results. You can use a state variable to only run code when you start and stop overlapping sprites/tiles/areas, but that is annoying. This extension adds new blocks which make it great for advanced tilemap games or making sprite overlaps easier! This adds a category called "Sprite Events".
+
+[GitHub repo](https://github.com/riknoll/arcade-sprite-events) | [Forum post](https://forum.makecode.com/t/arcade-sprite-events-extension/13453?u=unsignedarduino)
 
 ## Experimental-extensions
 
