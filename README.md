@@ -54,6 +54,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [arcade-snapshot](#arcade-snapshot)
   - [pxt-deltatime](#pxt-deltatime)
   - [pxt-blur](#pxt-blur)
+  - [pxt-zoom](#pxt-zoom)
 - [**Experimental extensions**](#experimental-extensions)
   - [arcade-soundtrack](#arcade-soundtrack)
 - [**Tools**](#tools)
@@ -451,6 +452,14 @@ Import this extension with the URL:
 This extension allows you to blur the screen in and out, just like the Colors extension does with fading! This adds a category called "Blur".
 
 [GitHub repo](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions/issues/45) | [Demo](https://arcade.makecode.com/46662-72254-40051-03086) | [Forum post](https://forum.makecode.com/t/blur-extension/12135)
+
+### pxt-zoom
+Import this extension with the URL:
+> https://github.com/kiwiphoenix364/pxt-zoom
+
+This extension allows you to zoom in or out of the screen by calling a single block in an `on game update` block! A very simple (0 < x < 1 for zoom out, and x > 1 to zoom in, and negatives for flipping screen upside down) extension that adds a "Zoom" category in the toolbox.
+
+[GitHub repo](https://github.com/kiwiphoenix364/pxt-zoom) | [Demo](https://arcade.makecode.com/55896-03193-59005-39058) | [Forum post](https://forum.makecode.com/t/zoom-extension/13745)
 
 ## Experimental-extensions
 
