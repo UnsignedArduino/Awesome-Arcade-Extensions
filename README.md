@@ -14,6 +14,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [arcade-grid](#arcade-grid)
   - [arcade-storytelling](#arcade-storytelling)
   - [arcade-tile-util](#arcade-tile-util)
+  - [pxt-raycasting](#pxt-raycasting)
 - [**Not built-in extensions**](#not-built-in-extensions)
   - [character-animations](#character-animations)
   - [arcade-tilemap-a-star](#arcade-tilemap-a-star)
@@ -52,7 +53,6 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [pxt-sound-effects](#pxt-sound-effects)
   - [arcade-snapshot](#arcade-snapshot)
   - [pxt-deltatime](#pxt-deltatime)
-  - [pxt-raycasting](#pxt-raycasting)
   - [pxt-blur](#pxt-blur)
 - [**Experimental extensions**](#experimental-extensions)
   - [arcade-soundtrack](#arcade-soundtrack)
@@ -119,6 +119,13 @@ This is the updated tilemap extension allows you to do a lot more with tiles ani
 
 [GitHub](https://github.com/microsoft/arcade-tile-util) | [Stream](https://www.twitch.tv/videos/1429569379) | [Demo](https://arcade.makecode.com/10829-55411-68884-03658) 
 
+### pxt-raycasting
+Import this extension with the URL:
+> https://github.com/AqeeAqee/pxt-raycasting/
+
+Raycasting has been implemented in many projects before, but this extension brings along a blocks API, allowing raycasting games in blocks! Many new features have been added (saying text, jumping) and it has also been added as a built-in extension! This extension adds a "3D Render" category to the toolbox!
+
+[GitHub repo](https://github.com/AqeeAqee/pxt-raycasting/) | [Demo](https://arcade.makecode.com/48334-41673-84191-43936) | [Forum post](https://forum.makecode.com/t/raycasting-3d-render-blocks-edition/12921)
 
 ## Not built-in extensions
 The following extensions, while just as good as the ones listed above, will require some slightly different steps while importing. First go to the toolbox, open the `Advanced` tab, click on `Extensions`, and you will see a text box that says `Search or enter project URL...`. This is where you will paste in the URL to the extension. The URL will be posted along with the listing.
@@ -436,14 +443,6 @@ Import this extension with the URL:
 This small extension adds a category called "Delta" which has a single block that exposes the delta time function in blocks, so projects that rely movement or time based on frames can work when the game is running slower than expected! Make sure to look at the [example](https://makecode.com/_Y0j7ef139dmo) on how to use it!
 
 [GitHub repo](https://github.com/kiwiphoenix364/pxt-deltatime) | [Demo](https://makecode.com/_Y0j7ef139dmo) | [Forum post](https://forum.makecode.com/t/extension-for-adding-delta-time-to-blocks/13194)
-
-### pxt-raycasting
-Import this extension with the URL:
-> https://github.com/AqeeAqee/pxt-raycasting/
-
-Raycasting has been implemented in many projects before, but this extension brings along a blocks API, allowing raycasting games in blocks! Make sure to check the [Forum post](https://forum.makecode.com/t/raycasting-3d-render-blocks-edition/12921) out because there are several feature previews of things like sprites saying text, wall scale, and jump! (Note by the time you read this, it could be already implemented!) This extension adds a "3D Render" category to the toolbox!
-
-[GitHub repo](https://github.com/AqeeAqee/pxt-raycasting/) | [Demo](https://arcade.makecode.com/59169-39428-75390-60169) | [Forum post](https://forum.makecode.com/t/raycasting-3d-render-blocks-edition/12921)
 
 ### pxt-blur
 Import this extension with the URL:
