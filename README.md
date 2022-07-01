@@ -15,6 +15,8 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [arcade-storytelling](#arcade-storytelling)
   - [arcade-tile-util](#arcade-tile-util)
   - [pxt-raycasting](#pxt-raycasting)
+  - [arcade-text](#arcade-text) and **1** fork:
+	  - [arcade-text by AqeeAqee](#arcade-text-by-aqeeaqee)
 - [**Not built-in extensions**](#not-built-in-extensions)
   - [character-animations](#character-animations)
   - [arcade-tilemap-a-star](#arcade-tilemap-a-star)
@@ -130,6 +132,25 @@ Raycasting has been implemented in many projects before, but this extension brin
 
 [GitHub repo](https://github.com/AqeeAqee/pxt-raycasting/) | [Demo](https://arcade.makecode.com/48334-41673-84191-43936) | [Forum post](https://forum.makecode.com/t/raycasting-3d-render-blocks-edition/12921)
 
+### arcade-text
+
+> Note: This extension has **1** fork! Please take care in selecting the correct extension!
+
+Easily add text in the form of sprites to your game with this extension! It gives a plethora of options to customize your text, plus with Unicode support! (At the expense of the text being larger) This extension adds a "Text Sprite" category.
+
+There is **1** available fork of this extension.
+
+[GitHub repo](https://github.com/microsoft/arcade-text)
+
+#### arcade-text by AqeeAqee
+
+Import this extension with the URL:
+> https://github.com/AqeeAqee/arcade-text
+
+This fork of the extension adds multi-line support!
+
+[GitHub repo](https://github.com/AqeeAqee/arcade-text) | [Demo](https://arcade.makecode.com/73556-43866-67413-93047) | [Forum post](https://forum.makecode.com/t/multilines-for-arcade-text/12555?u=unsignedarduino)
+
 ## Not built-in extensions
 The following extensions, while just as good as the ones listed above, will require some slightly different steps while importing. First go to the toolbox, open the `Advanced` tab, click on `Extensions`, and you will see a text box that says `Search or enter project URL...`. This is where you will paste in the URL to the extension. The URL will be posted along with the listing.
 
@@ -171,7 +192,6 @@ Import this extension with the URL:
 This fork of the extension adds icons and multi-column support! 
 
 [GitHub repo](https://github.com/AqeeAqee/arcade-custom-menu) | [Demo](https://arcade.makecode.com/11158-18248-69309-63621) | [Forum post](https://forum.makecode.com/t/block-menu-icons-multi-column-edition/13286)
-
 
 ### arcade-block-objects
 Import this extension with the URL:
