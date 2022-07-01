@@ -338,7 +338,7 @@ Import this extension with the URL:
 Import this extension with the URL:
 > https://github.com/riknoll/grafxkid-tiles
 
-Don't want to draw up a platformer tileset? @logic_lab on the MakeCode Forums has converted GrafxKid's tileset into MakeCode tiles so you can use them as well! Comes in 4 different seasons and adds 4 new dropdown categorys in the tile category picker in the tilemap editor.
+Don't want to draw up a platformer tileset? @logic_lab on the MakeCode Forums has converted GrafxKid's tileset into MakeCode tiles so you can use them as well! Comes in 4 different seasons and adds 4 new dropdown categories in the tile category picker in the tilemap editor.
 
 [GitHub repo](https://github.com/riknoll/grafxkid-tiles) | [Forum post](https://forum.makecode.com/t/platformer-tileset/3023) 
 
