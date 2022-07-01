@@ -56,6 +56,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [pxt-blur](#pxt-blur)
   - [pxt-zoom](#pxt-zoom)
   - [arcade-sprite-events](#arcade-sprite-events)
+  - [arcade-mini-menu](#arcade-mini-menu)
 - [**Experimental extensions**](#experimental-extensions)
   - [arcade-soundtrack](#arcade-soundtrack)
 - [**Tools**](#tools)
@@ -150,6 +151,7 @@ Help your sprites find their way around your tilemaps with this extension! Just 
 
 ### arcade-custom-menu
 
+> Note: This extension is depreciated! There is a new better extension called [arcade-mini-menu](#arcade-mini-menu) that does the same thing but is much more customizable!
 > Note: This extension has **1** fork! Please take care in selecting the correct extension!
 
 Import this extension with the URL:
@@ -181,7 +183,7 @@ Object-oriented programming is no doubt an important topic in prograaming. This 
 
 ### arcade-story
 
-> NOTE: This extension is depreciated! There is a new better extension under the same name but different repo that is now part of the built-in extensions! Check out the Forum post about it [here](https://forum.makecode.com/t/new-arcade-story-extension/6744). 
+> Note: This extension is depreciated! There is a new better extension under the same name but different repo that is now part of the built-in extensions! Check out the Forum post about it [here](https://forum.makecode.com/t/new-arcade-story-extension/6744). 
 
 Import this extension with the URL:
 > https://github.com/riknoll/arcade-story
@@ -338,7 +340,7 @@ Import this extension with the URL:
 Import this extension with the URL:
 > https://github.com/riknoll/grafxkid-tiles
 
-Don't want to draw up a platformer tileset? @logic_lab on the MakeCode Forums has converted GrafxKid's tileset into MakeCode tiles so you can use them as well! Comes in 4 different seasons and adds 4 new dropdown categories in the tile category picker in the tilemap editor.
+Don't want to draw up a platformer tileset? @logic_lab on the MakeCode Forums has converted GrafxKid's tileset into MakeCode tiles so you can use them as well! Comes in 4 different seasons and adds 4 new dropdown categorys in the tile category picker in the tilemap editor.
 
 [GitHub repo](https://github.com/riknoll/grafxkid-tiles) | [Forum post](https://forum.makecode.com/t/platformer-tileset/3023) 
 
@@ -469,6 +471,14 @@ Import this extension with the URL:
 The default sprite overlap and tilemap overlap blocks are called _for every frame it is happening_, which can lead to unexpected results. You can use a state variable to only run code when you start and stop overlapping sprites/tiles/areas, but that is annoying. This extension adds new blocks which make it great for advanced tilemap games or making sprite overlaps easier! This adds a category called "Sprite Events".
 
 [GitHub repo](https://github.com/riknoll/arcade-sprite-events) | [Forum post](https://forum.makecode.com/t/arcade-sprite-events-extension/13453?u=unsignedarduino)
+
+### arcade-mini-menu
+Import this extension with the URL:
+> https://github.com/riknoll/arcade-mini-menu
+
+This extension is a much more advanced and highly customizable version of (the now depreciated) [arcade-custom-menu](#arcade-custom-menu) that has _tons_ of options to customize your menus to fit your game's theme! The menu is also a sprite, which allows you to use all standard sprite blocks on it. This adds a category to the toolbox called "Mini Menu".
+
+[GitHub repo](https://github.com/riknoll/arcade-mini-menu) | [Demo](https://riknoll.github.io/arcade-mini-menu/)
 
 ## Experimental-extensions
 
