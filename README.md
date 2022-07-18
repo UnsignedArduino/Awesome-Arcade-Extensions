@@ -1,3 +1,4 @@
+
 # MakeCode Arcade Extensions
 This is a list of MakeCode Arcade extensions that I find super useful in my projects. If you would like to suggest an extension be added, please open an issue with a link to the extension on GitHub. Or even better, open a pull request for adding an extension! Make sure to include a description, import url, links to it's GitHub repo, GitHub Pages example if any, forum post showcasing the extension if any, and an entry in the table of contents!
 
@@ -197,7 +198,7 @@ This fork of the extension adds icons and multi-column support!
 Import this extension with the URL:
 > https://github.com/microsoft/arcade-block-objects
 
-Object-oriented programming is no doubt an important topic in prograaming. This extension will help you make objects in blocks! Attach all sorts of data to an object, like numbers, strings, images, sprites, locations, and more! This will add a category in the toolbox called `BlockObject` with 7 sub-categories.
+OOP is no doubt an important topic in programming. This extension will help you make objects in blocks! Attach all sorts of data to an object, like numbers, strings, images, sprites, locations, and more! This will add a category in the toolbox called `BlockObject` with 7 sub-categories.
 
 [GitHub repo](https://github.com/microsoft/arcade-block-objects)
 
