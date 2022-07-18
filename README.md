@@ -18,8 +18,8 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
   - [pxt-raycasting](#pxt-raycasting)
   - [arcade-text](#arcade-text) and **1** fork:
 	  - [arcade-text by AqeeAqee](#arcade-text-by-aqeeaqee)
-- [**Not built-in extensions**](#not-built-in-extensions)
   - [character-animations](#character-animations)
+- [**Not built-in extensions**](#not-built-in-extensions)
   - [arcade-tilemap-a-star](#arcade-tilemap-a-star)
   - [arcade-custom-menu](#arcade-custom-menu) and **1** fork:
 	  - [arcade-custom-menu by AqeeAqee](#arcade-custom-menu-by-aqeeaqee)
@@ -152,16 +152,12 @@ This fork of the extension adds multi-line support!
 
 [GitHub repo](https://github.com/AqeeAqee/arcade-text) | [Demo](https://arcade.makecode.com/73556-43866-67413-93047) | [Forum post](https://forum.makecode.com/t/multilines-for-arcade-text/12555?u=unsignedarduino)
 
-## Not built-in extensions
-The following extensions, while just as good as the ones listed above, will require some slightly different steps while importing. First go to the toolbox, open the `Advanced` tab, click on `Extensions`, and you will see a text box that says `Search or enter project URL...`. This is where you will paste in the URL to the extension. The URL will be posted along with the listing.
-
 ### character-animations
-Import this extension with the URL:
-> https://github.com/riknoll/character-animations
 
 A version of the `Animation` extension but much more easier to handle if your sprites (Ex. main player) has a lot of different movements, like moving up, down, left, and right. The `character-animations` extension will automatically start and stop animations depending on what the player is doing. This will add another category in the toolbox called `Character`.
 
-[GitHub repo](https://github.com/riknoll/character-animations)
+## Not built-in extensions
+The following extensions, while just as good as the ones listed above, will require some slightly different steps while importing. First go to the toolbox, open the `Advanced` tab, click on `Extensions`, and you will see a text box that says `Search or enter project URL...`. This is where you will paste in the URL to the extension. The URL will be posted along with the listing.
 
 ### arcade-tilemap-a-star
 Import this extension with the URL:
