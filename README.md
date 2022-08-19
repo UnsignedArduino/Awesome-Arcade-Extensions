@@ -25,6 +25,7 @@ You can find the old Gist [here](https://gist.github.com/UnsignedArduino/3bc2adc
 	  - [arcade-custom-menu by AqeeAqee](#arcade-custom-menu-by-aqeeaqee)
   - [arcade-block-objects](#arcade-block-objects)
   - [arcade-story](#arcade-story)
+  - [arcade-split-screen](#arcade-split-screen)
   - [arcade-sprite-util](#arcade-sprite-util)
   - [arcade-image-text](#arcade-image-text)
   - [pxt-lantern](#pxt-lantern)
@@ -208,6 +209,14 @@ Import this extension with the URL:
 Need some cutscenes with dialog? This extension is for you! Comes with a variety of blocks designed to make writing stories and scenes much easier. This extension pairs great with the `Color Fading` extension linked above. This will add a new category called `Story` in the toolbox.
 
 [GitHub repo](https://github.com/riknoll/arcade-story)
+
+### arcade-split-screen
+Import this extension with the URL:
+> https://github.com/riknoll/arcade-split-screen
+
+Playing MakeCode games with friends can be hard to do without a second device, without the splitscreen extension! This extension allows the user to split the screen, dividing the play area into two separate canvases, each following a different sprite. The extension adds a `Split screen` category to the toolbox.
+
+[GitHub repo](https://github.com/riknoll/arcade-split-screen) | [Demo](https://arcade.makecode.com/66629-31960-05105-39180) | [Forum post](https://forum.makecode.com/t/extension-arcade-split-screen/14970)
 
 ### arcade-sprite-util
 Import this extension with the URL:
