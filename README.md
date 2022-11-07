@@ -486,7 +486,7 @@ This extension allows you to blur the screen in and out, just like the Colors ex
 Import this extension with the URL:
 > https://github.com/kiwiphoenix364/pxt-zoom
 
-This extension allows you to zoom in or out of the screen by calling a single block in an `on game update` block! A very simple (0 < x < 1 for zoom out, and x > 1 to zoom in, and negatives for flipping screen upside down) extension that adds a "Zoom" category in the toolbox.
+This extension allows you to smoothly zoom in or out of the screen by calling a single block! A very simple (0 < x < 1 for zoom out, and x > 1 to zoom in, and negatives for flipping screen upside down) extension that adds a "Zoom" category in the toolbox.
 
 [GitHub repo](https://github.com/kiwiphoenix364/pxt-zoom) | [Demo](https://arcade.makecode.com/55896-03193-59005-39058) | [Forum post](https://forum.makecode.com/t/zoom-extension/13745)
 
